@@ -1,70 +1,44 @@
-34.134.60.185:443::United States::Iowa::Council Bluffs
+112.54.33.47:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
 183.250.154.92:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
-60.12.81.5:7302::China::Zhejiang::Shaoxing
-61.180.28.137:20009::China::Shandong::Heze
-118.242.27.66:7300::China::Shanghai::Xuhui
+185.224.83.104:9150::Denmark::Capital Region::Copenhagen
 117.159.198.122:7302::China::Henan::Zhengzhou
+60.12.81.5:7302::China::Zhejiang::Shaoxing
 210.12.172.12:7300::China::Beijing::Beijing
-182.111.75.174:20014::China::Guangdong::Shenzhen
+60.28.57.177:7302::China::Tianjin::Tianjin
+121.29.133.170:1080::Hong Kong::Central and Western District::Central
+138.68.57.62:9050::Romania::Bucharest::Bucharest
+210.16.73.83:1080::Philippines::Calabarzon::San Pablo City
+117.86.174.166:20010::Hong Kong::Tsuen Wan District::Tsuen Wan
+113.0.71.246:7302::China::Heilongjiang::Harbin
+159.65.106.43:9050::Netherlands::North Holland::Amsterdam
+218.205.124.53:7302::China::Zhejiang::Hangzhou
+218.205.124.54:7302::China::Zhejiang::Hangzhou
+112.5.101.162:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
+223.112.183.58:7302::China::Zhejiang::Wenzhou
 221.214.109.166:7300::China::Shandong::Jinan
 111.43.116.162:7302::China::Heilongjiang::Harbin
-117.86.172.50:20025::China::Zhejiang::Huzhou
-121.226.122.42:20006::China::Guangdong::Shenzhen
-138.68.51.109:9050::United States::Nevada::Las Vegas
-223.112.183.58:7300::China::Zhejiang::Wenzhou
-45.248.9.137:8003::China::Chongqing::Chongqing
-182.111.75.248:20001::China::Jiangsu::Nanjing
-221.214.109.166:7302::China::Shandong::Jinan
-182.101.207.165:7300::China::Jiangxi::Baitang
-117.86.138.13:20023::China::Hebei::Handan
-113.9.157.29:7302::China::Heilongjiang::Harbin
-59.62.196.162:20014::China::Beijing::Beijing
-61.180.29.233:20005::China::Shandong::Liaocheng
-218.205.124.53:7302::China::Zhejiang::Hangzhou
-61.180.29.60:20009::China::Beijing::Beijing
-219.145.191.165:7302::China::Shaanxi::Weinan
-218.205.124.54:7302::China::Zhejiang::Hangzhou
-218.207.218.21:7302::China::Fujian::Fuzhou
-182.111.75.248:20014::China::Liaoning::Shenyang
-138.197.193.107:9050::United Kingdom::England::London
-50.62.63.126:64405::United States::Arizona::Scottsdale
-193.162.105.1:1080::Turkey::Istanbul::Istanbul
-138.197.208.39:9050::United States::Nevada::Las Vegas
-113.0.71.246:7302::China::Heilongjiang::Harbin
-101.53.158.48:9600::United States::Washington::Seattle
-111.30.79.44:7302::China::Tianjin::Tianjin
-34.95.224.52:443::Brazil::São Paulo::Sao Paulo
-106.55.199.70:7890::South Korea::Gangwon-do::Chuncheon
-91.216.190.44:30091::United States::Texas::Dallas
-166.111.74.47:7890::Taiwan::Miaoli::Beixing
-182.111.75.174:20011::China::Jiangxi::Nanchang Shi
-166.62.83.60:27410::United States::Arizona::Scottsdale
-178.237.38.25:17850::Belgium::Brussels Capital::Brussels
-222.92.218.37:7302::China::Jiangsu::Suzhou
-59.66.142.35:7890::United States::California::Santa Clara
-117.86.184.232:20014::China::Shandong::Jinan
-91.216.190.44:30242::United States::Virginia::Richmond
-117.86.184.232:20023::China::Ningxia Hui Autonomous Region::Yinchuan
-175.24.235.242:7891::United States::Oregon::Portland
-159.65.106.43:9050::Sweden::Stockholm County::Stockholm
-182.111.75.178:20001::China::Guangdong::Shenzhen
-61.180.29.126:20025::China::Ningxia Hui Autonomous Region::Yinchuan
-166.111.89.160:4781::Hong Kong::Central and Western District::Central
 58.18.36.61:7300::China::Inner Mongolia Autonomous Region::Ordos
-138.68.57.62:9050::United States::Washington::Seattle
-183.129.157.62:7302::China::Zhejiang::Hangzhou
-222.248.177.49:1080::Hong Kong::Central and Western District::Central
-49.12.236.120:10019::Sweden::Stockholm County::Stockholm
-113.247.221.4:7302::China::Hunan::Changsha
-106.12.7.50:10000::China::Tianjin::Xiaobailou
-192.249.127.96:9999::United States::Washington::Seattle
-49.12.235.125:10017::United States::Illinois::Chicago
+120.211.6.105:7300::China::Hebei::Baoding
+34.95.224.52:443::Brazil::São Paulo::Sao Paulo
+117.86.184.200:20003::China::Shandong::Jinan
+58.18.36.61:7302::China::Inner Mongolia Autonomous Region::Ordos
+218.84.231.252:7302::China::Xinjiang Uyghur Autonomous Region::Ewirgol
+223.166.192.243:1080::Taiwan::Taiwan::Xiawanzi
+122.224.123.162:7302::China::Zhejiang::Hangzhou
+142.93.143.155:9010::United States::Washington::Seattle
+138.197.197.200:9050::Netherlands::North Holland::Amsterdam
+50.62.63.126:64405::United States::Arizona::Scottsdale
+144.202.117.30:55036::United States::California::Los Angeles
+120.195.199.62:7302::China::Zhejiang::Wenzhou
+166.111.74.47:7890::Taiwan::Miaoli::Beixing
+166.111.89.160:4781::Hong Kong::Central and Western District::Central
+118.242.27.66:7300::China::Shanghai::Xuhui
+58.218.204.217:1088::Hong Kong::Kwun Tong::Kowloon Bay
+49.12.225.148:10001::Spain::Madrid::Madrid
+59.66.142.35:7890::United States::California::Santa Clara
+78.38.108.194:1080::Iran::Sistan and Baluchestan::Zabol
+92.222.206.150:15979::France::Île-de-France::Paris
+103.168.183.156:5006::United States::Illinois::Chicago
 47.98.151.6:11324::China::Zhejiang::Hangzhou
-61.180.29.233:20012::China::Hainan::Sanya
-111.75.57.47:20032::China::Henan::Zhengzhou
-45.142.212.31:30003::Germany::North Rhine-Westphalia::Bergkamen
-183.250.109.213:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
-103.230.212.21:7302::China::Beijing::Beijing
-117.86.138.213:20023::China::Tianjin::Tianjin
-61.180.28.137:20005::China::Henan::Shangqiu
-49.12.234.231:10000::Germany::Hesse::Frankfurt am Main
+117.86.138.81:20004::China::Shanxi::Taiyuan
+117.86.138.13:20023::China::Hebei::Gaocheng
