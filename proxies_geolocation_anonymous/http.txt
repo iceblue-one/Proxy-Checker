@@ -1,53 +1,66 @@
-167.114.96.27:9300::Romania::Bucharest::Bucharest
-45.167.253.129:999::Mexico::San Luis Potosí::San Luis Potosí City
-103.145.57.50:8080::Bangladesh::Rajshahi Division::Bogra
-183.220.121.159:7890::Singapore::None::Singapore
-51.38.155.116:3128::Poland::Mazovia::Warsaw
-85.25.132.27:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.195.177:5566::United Kingdom::England::London
-51.77.35.132:3128::Poland::Mazovia::Warsaw
-51.83.155.88:3128::Poland::Mazovia::Warsaw
-95.217.88.72:40082::Russia::Moscow::Moscow
-200.105.215.205:8080::Bolivia::Departamento de La Paz::La Paz
-85.25.117.134:5566::Germany::North Rhine-Westphalia::Bonn
-186.3.9.219:999::Ecuador::Provincia del Guayas::Guayaquil
-147.75.113.227:8080::Colombia::Bogota D.C.::Bogotá
-85.25.198.20:5566::Germany::North Rhine-Westphalia::Bonn
+115.239.234.43:7302::None::None::None
 103.112.44.50:8080::Indonesia::Jakarta::Jakarta
-223.100.215.25:8080::China::Liaoning::Shenyang
-62.75.236.132:5566::United Kingdom::England::London
+158.69.27.94:9300::Germany::Bavaria::Bischberg
+167.114.96.27:9300::Netherlands::North Holland::Amsterdam
+117.54.238.61:8080::Indonesia::Jakarta::Jakarta
+183.220.121.159:7890::Hong Kong::Central and Western District::Central
+222.253.48.253:8080::Vietnam::Ho Chi Minh::Ho Chi Minh City
+88.255.102.190:9090::Turkey::Istanbul::Istanbul
+45.71.203.111:999::Ecuador::Provincia de Loja::Loja
+89.32.248.206:7575::Romania::Bucharest::Bucharest
+200.8.190.45:999::Venezuela::Lara::Barquisimeto
+185.82.98.2:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
+64.210.67.19:999::Venezuela::Distrito Federal::Caracas
+45.189.117.237:999::Peru::Lima::Lima
+200.164.65.83:55443::Brazil::Para::Ananindeua
+190.2.209.2:999::Colombia::Bogota D.C.::Bogotá
+190.103.28.250:999::Venezuela::Distrito Federal::Caracas
+95.217.88.72:40074::Russia::Moscow::Moscow
+34.145.237.227:80::United States::Washington, D.C.::Washington
+85.25.133.28:5566::Germany::Bavaria::Bischberg
+85.25.117.134:5566::United Kingdom::England::London
+85.25.119.113:5566::United Kingdom::England::London
+45.181.226.162:999::Venezuela::Distrito Federal::Caracas
+78.188.118.100:10001::Turkey::Afyonkarahisar::Bolvadin
+185.82.98.42:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
+191.97.9.189:999::Colombia::Bogota D.C.::Bogotá
+45.167.253.129:999::Mexico::San Luis Potosí::San Luis Potosí City
+85.62.10.91:8080::Spain::Valencia::Pedreguer
+45.70.237.81:3128::Ecuador::Provincia del Azuay::Cuenca
+103.172.70.33:8080::Indonesia::Banten::Tangerang
+2.179.193.146:80::Iran::Māzandarān::Babol
+175.101.14.121:84::India::Telangana::Hyderabad
+193.193.240.37:45944::Kazakhstan::West Kazakhstan::Oral
+102.134.127.15:8080::South Africa::Western Cape::Cape Town
+47.105.54.91:3128::Japan::Tokyo::Chiyoda
+203.170.209.7:8081::Thailand::Udon Thani::Udon Thani
+111.30.26.229:3130::China::Beijing::Beijing
+62.75.229.51:5566::United Kingdom::England::London
+188.127.250.62:10002::Germany::Land Berlin::Berlin
 190.221.33.11:999::Argentina::Buenos Aires::Piguee
-103.44.156.65:8080::India::West Bengal::Kolkata
-85.25.150.32:5566::Germany::Bavaria::Bischberg
-51.77.61.155:3128::Poland::Mazovia::Warsaw
-51.83.232.92:3128::Poland::Mazovia::Warsaw
-95.217.88.72:40089::Russia::Krasnodarskiy Kray::Krasnodar
-200.106.187.242:999::Argentina::Buenos Aires::Jose Maria Ezeiza
-103.160.201.192:8080::Indonesia::Jakarta::Pulo Gebang
-51.83.231.20:3128::Poland::Mazovia::Warsaw
-190.90.83.225:999::Colombia::Bogota D.C.::Bogotá
-177.93.34.228:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-103.147.43.255:8080::Pakistan::Punjab::Lahore
-116.197.155.113:8080::India::Uttar Pradesh::Agra
-103.209.88.75:8080::India::Andhra Pradesh::Guntur
-45.236.170.184:999::Ecuador::Provincia del Guayas::Guayaquil
-45.70.15.6:8080::Ecuador::Provincia del Chimborazo::Alausi
-143.248.55.62:8118::Seychelles::English River::Victoria
+200.13.154.81:8080::Bolivia::Departamento de Tarija::Tarija
+88.255.101.229:8080::Turkey::Istanbul::Sisli
+85.25.119.241:5566::Germany::North Rhine-Westphalia::Bonn
+45.172.110.91:999::Argentina::San Juan::Caucete
+190.112.137.81:8085::Argentina::Buenos Aires::Zárate
+200.101.89.3:8080::Brazil::Mato Grosso do Sul::Campo Grande
 95.217.88.72:40078::Russia::Moscow::Moscow
-188.138.106.93:5566::Germany::Bavaria::Bischberg
-200.114.84.76:8080::Argentina::Buenos Aires::La Plata
-45.156.31.3:9090::Turkey::Istanbul::Istanbul
-103.121.199.142:8080::Indonesia::Jakarta::Jakarta
-115.193.160.61:7890::Hong Kong::Yau Tsim Mong::Mong Kok
-85.25.199.50:5566::Germany::Bavaria::Bischberg
-190.216.107.254:999::Ecuador::Provincia de Pichincha::Quito
-103.31.44.203:8080::Indonesia::Jakarta::Jakarta
-181.209.105.158:8080::Argentina::Buenos Aires::Benavidez
-62.138.3.125:5566::Germany::Bavaria::Bischberg
-183.172.237.152:7890::Hong Kong::Sai Kung District::Tseung Kwan O
-45.7.135.236:999::Colombia::Cundinamarca::Guayabal de Síquima
-177.93.50.146:999::Colombia::Bogota D.C.::Bogotá
-202.62.93.194:8080::India::Tamil Nadu::Chennai
-85.25.246.206:5566::Germany::North Rhine-Westphalia::Bonn
-182.176.164.41:8080::Pakistan::Punjab::Lahore
-132.255.210.118:999::El Salvador::Departamento de La Union::Santa Rosa de Lima
+163.172.75.81:5566::Germany::Land Berlin::Berlin
+203.80.190.186:8080::Bangladesh::Dhaka Division::Gulshan
+103.209.230.193:8080::Bangladesh::Rangpur Division::Rangpur City
+186.200.174.206:8080::Brazil::Parana::Cafelandia
+200.48.3.227:10101::Peru::Lima::Lima
+102.68.135.229:8080::Libya::Tripoli::Tripoli
+213.135.5.141:8080::Germany::Saarland::Saarbrücken
+147.135.134.57:5566::United States::Texas::Austin
+187.110.236.145:53281::Brazil::Rio Grande do Norte::Parnamirim
+190.113.40.232:999::Dominican Republic::Provincia de Barahona::Santa Cruz de Barahona
+121.146.167.17:4003::South Korea::Seoul::Seoul
+190.110.99.101:999::Chile::Santiago Metropolitan::Las Condes
+138.201.154.35:24000::United Kingdom::England::London
+185.82.99.150:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
+190.128.231.146:8080::Paraguay::Departamento del Alto Parana::Yguazú
+45.183.77.9:8080::Brazil::Rio Grande do Sul::Nova Santa Rita
+103.101.17.171:8080::Myanmar::Rangoon::Yangon
+95.217.88.72:40067::Russia::Moscow::Moscow
+85.25.208.198:5566::Germany::Bavaria::Bischberg
