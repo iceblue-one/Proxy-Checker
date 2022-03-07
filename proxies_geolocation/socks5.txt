@@ -1,278 +1,227 @@
-34.134.60.185:443::United States::Iowa::Council Bluffs
-72.195.114.184:4145::United States::Oklahoma::Oklahoma City
-72.195.34.42:4145::United States::Oklahoma::Oklahoma City
-98.188.47.132:4145::United States::Louisiana::Baton Rouge
-98.188.47.150:4145::United States::Louisiana::Baton Rouge
-72.195.34.35:27360::United States::Oklahoma::Oklahoma City
-72.195.34.59:4145::United States::Oklahoma::Oklahoma City
-72.195.34.58:4145::United States::Oklahoma::Oklahoma City
-98.162.96.41:4145::United States::Oklahoma::Oklahoma City
-24.249.199.4:4145::United States::California::Los Angeles
-98.175.31.195:4145::United States::Virginia::Norfolk
-174.64.199.79:4145::United States::Oklahoma::Oklahoma City
-72.195.34.60:27391::United States::Oklahoma::Oklahoma City
-98.162.96.52:4145::United States::Oklahoma::Oklahoma City
-70.185.68.133:4145::United States::Arkansas::Fayetteville
-98.162.96.53:10663::United States::Oklahoma::Oklahoma City
-174.77.111.198:49547::United States::Rhode Island::Cranston
-98.171.154.23:4145::United States::Oklahoma::Oklahoma City
-174.77.111.197:4145::United States::Rhode Island::Cranston
-72.210.208.101:4145::United States::Oklahoma::Oklahoma City
-164.90.130.191:10172::United States::New Jersey::Clifton
-157.245.244.159:22681::United States::New Jersey::North Bergen
-137.184.48.67:48249::United States::New Jersey::North Bergen
-142.93.6.220:10912::United States::New Jersey::North Bergen
-174.77.111.196:4145::United States::Rhode Island::Cranston
 192.252.220.92:17328::United States::California::Los Angeles
-174.75.211.222:4145::United States::Oklahoma::Oklahoma City
-72.195.114.169:4145::United States::Oklahoma::Oklahoma City
-173.212.221.21:27075::Germany::Bavaria::Nuremberg
-184.181.217.210:4145::United States::Oklahoma::Oklahoma City
+34.134.60.185:443::United States::Iowa::Council Bluffs
 8.209.211.40:38080::Japan::Tokyo::Tokyo
-155.94.235.48:34495::United States::California::Los Angeles
-24.249.199.12:4145::United States::California::Los Angeles
+72.195.114.169:4145::United States::Oklahoma::Oklahoma City
+24.249.199.4:4145::United States::California::Los Angeles
+70.185.68.133:4145::United States::Arkansas::Fayetteville
+98.188.47.150:4145::United States::Louisiana::Baton Rouge
+72.195.34.59:4145::United States::Oklahoma::Oklahoma City
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+184.181.217.210:4145::United States::Oklahoma::Oklahoma City
 70.185.68.155:4145::United States::Arkansas::Fayetteville
-72.206.181.105:64935::United States::Oklahoma::Oklahoma City
-132.148.159.163:28556::United States::Arizona::Scottsdale
-47.242.168.35:9090::Hong Kong::Central and Western District::Hong Kong
-173.249.33.122:48220::Germany::Bavaria::Nuremberg
-45.88.13.56:1080::Hong Kong::Islands District::Tung Chung
-43.129.77.148:3001::Hong Kong::Central and Western District::Central
-139.162.100.214:48730::Japan::Tokyo::Tokyo
-180.167.161.166:7302::China::Shanghai::Shanghai
-98.170.57.231:4145::United States::Oklahoma::Oklahoma City
-58.248.89.3:1080::China::Guangdong::Guangzhou
+72.210.208.101:4145::United States::Oklahoma::Oklahoma City
+98.171.154.23:4145::United States::Oklahoma::Oklahoma City
+72.195.34.60:27391::United States::Oklahoma::Oklahoma City
+43.129.222.186:38080::Hong Kong::Central and Western District::Central
+174.75.211.222:4145::United States::Oklahoma::Oklahoma City
 72.195.34.41:4145::United States::Oklahoma::Oklahoma City
-36.133.183.241:85::China::Guangdong::Shenzhen
-36.138.166.30:85::China::Guangdong::Shenzhen
-36.138.166.30:83::China::Guangdong::Shenzhen
-183.215.125.101:7302::China::Hunan::Changsha
-188.165.225.139:27146::France::Hauts-de-France::Roubaix
-36.133.38.6:82::China::Guangdong::Shenzhen
-117.139.164.64:7302::China::Sichuan::Chengdu
-39.105.213.193:10870::United States::California::San Jose
-210.12.172.12:7300::China::Beijing::Beijing
-117.157.67.56:7302::China::Guangdong::Shenzhen
-111.35.16.184:7302::China::Shandong::Weifang
-139.162.100.214:57320::Japan::Tokyo::Tokyo
-104.131.8.62:55369::United States::New Jersey::Clifton
-112.54.33.47:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
-50.62.30.5:27846::United States::Arizona::Scottsdale
-60.12.81.5:7302::China::Zhejiang::Shaoxing
-113.195.23.104:8004::China::Jiangxi::Nanchang
-59.62.245.136:20003::Hong Kong::Tsuen Wan District::Tsuen Wan
-111.22.217.15:7302::China::Hunan::Huaihua
-182.111.75.174:20011::China::Guangdong::Shenzhen
-192.111.139.163:19404::United States::Georgia::Atlanta
-61.180.29.126:20011::China::Tianjin::Tianjin
-111.41.48.161:7302::China::Heilongjiang::Harbin
+174.77.111.198:49547::United States::Rhode Island::Cranston
+174.77.111.196:4145::United States::Rhode Island::Cranston
+98.175.31.195:4145::United States::Virginia::Norfolk
+98.162.96.53:10663::United States::Oklahoma::Oklahoma City
+98.188.47.132:4145::United States::Louisiana::Baton Rouge
 192.111.139.162:4145::United States::Georgia::Atlanta
-121.226.122.42:20006::China::Sichuan::Chengdu
+72.195.34.58:4145::United States::Oklahoma::Oklahoma City
+192.111.130.2:4145::United States::Georgia::Atlanta
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+137.184.48.41:11427::United States::New Jersey::North Bergen
+72.195.34.42:4145::United States::Oklahoma::Oklahoma City
+72.195.34.35:27360::United States::Oklahoma::Oklahoma City
+174.77.111.197:4145::United States::Rhode Island::Cranston
+192.111.139.163:19404::United States::Georgia::Atlanta
 119.3.231.232:8001::None::None::None
-138.197.88.158:58873::United States::New Jersey::Clifton
-221.10.195.67:7300::China::Beijing::Beijing
-223.71.63.170:7302::China::Beijing::Beijing
-124.161.103.80:7300::China::Sichuan::Chengdu
-221.10.195.67:7302::China::Beijing::Beijing
-122.226.176.250:7302::China::Zhejiang::Taizhou
-72.217.216.239:4145::United States::Oklahoma::Oklahoma City
-112.5.101.162:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
-124.94.101.166:7300::China::Liaoning::Shenyang
-61.153.42.218:7302::China::Zhejiang::Wenzhou
-98.178.72.21:10919::United States::Oklahoma::Oklahoma City
-222.223.124.205:7302::China::Beijing::Beijing
-222.240.80.227:7302::China::Hunan::Changsha
-61.180.28.177:20009::China::Zhejiang::Wenzhou
-218.28.136.54:7302::China::Henan::Zhengzhou
-34.95.224.52:443::Brazil::São Paulo::Sao Paulo
-117.190.245.124:7302::China::Guangdong::Shenzhen
-182.111.75.174:20003::China::Hebei::Shijiazhuang
-167.86.98.113:27092::Germany::Bavaria::Nuremberg
-95.0.206.51:10820::Turkey::Istanbul::Istanbul
-116.115.54.121:7302::China::Inner Mongolia Autonomous Region::Ulanqab
-43.224.10.8:6667::India::Gujarat::Surat
-60.6.215.241:7302::China::Hebei::Xingtai
-58.222.132.163:7302::China::Jiangsu::Qinnan
-178.79.161.73:32714::United Kingdom::England::London
-64.227.53.22:9050::United States::Washington::Seattle
-123.157.79.246:7302::China::Zhejiang::Hangzhou
-182.111.75.248:20012::China::Liaoning::Shenyang
-211.140.228.229:7302::China::Liaoning::Dalian
-222.175.118.243:7302::China::Shandong::Jinan
-142.93.6.231:57987::United States::New Jersey::North Bergen
-60.255.230.169:7302::China::Sichuan::Chengdu
-183.129.157.62:7302::China::Zhejiang::Hangzhou
-218.108.69.94:58088::China::Zhejiang::Hangzhou
-36.133.202.102:86::China::Guangdong::Shenzhen
-60.10.10.171:7302::China::Beijing::Beijing
-218.89.4.27:7302::China::Sichuan::Liangshan Yizu Zizhizhou
-123.150.95.142:7302::China::Tianjin::Tianjin
-143.248.55.62:5566::Germany::Schleswig-Holstein::Ratekau
-36.133.214.97:85::China::Guangdong::Shenzhen
-124.94.101.166:7302::China::Liaoning::Shenyang
-176.103.49.10:16642::Ukraine::Kharkiv::Kharkiv
-61.180.29.60:20015::China::Sichuan::Mianyang
-47.109.40.23:1080::China::Sichuan::Chengdu
-222.88.201.225:7300::China::Henan::Yingchuan
-167.99.153.77:3873::United States::New Jersey::North Bergen
-111.43.116.162:7302::China::Heilongjiang::Harbin
-175.24.235.242:7891::United States::Oregon::Portland
-128.199.138.28:57688::Singapore::None::Singapore
-60.163.157.186:7302::China::Beijing::Beijing
-142.93.143.155:9010::United Kingdom::England::London
-104.131.8.62:46092::United States::New Jersey::Clifton
-72.221.164.34:60671::United States::Oklahoma::Oklahoma City
-182.111.172.48:32997::China::Jiangxi::Dunhou
-36.133.214.97:82::China::Guangdong::Shenzhen
-58.48.122.170:7302::China::Hubei::Wuhan
-70.166.167.55:57745::United States::Arizona::Queen Creek
-222.212.85.16:7000::China::Sichuan::Chengdu
-36.133.214.97:93::China::Guangdong::Shenzhen
-36.133.183.241:92::China::Guangdong::Shenzhen
-61.178.99.43:7302::China::Gansu::Lanzhou
-88.198.195.219:10049::Netherlands::North Holland::Amsterdam
-167.86.111.166:52506::Germany::Bavaria::Nuremberg
-60.211.244.158:7302::China::Shandong::Jinan
-111.75.57.236:20023::China::Sichuan::Chengdu
-223.112.183.58:7300::None::None::None
-111.160.114.210:7302::China::Tianjin::Tianjin
-39.152.105.58:7302::China::Liaoning::Shenyang
-58.213.71.98:7302::China::Jiangsu::Nanjing
-91.205.72.103:7905::Poland::Łódź Voivodeship::Lodz
-223.241.72.244:7302::China::Anhui::Rongcheng
-36.133.214.97:92::China::Guangdong::Shenzhen
-183.3.149.98:7302::China::Guangdong::Guangzhou
-39.152.112.205:7300::China::Liaoning::Shenyang
-101.71.121.196:7302::China::Zhejiang::Hangzhou
-120.195.199.62:7302::None::None::None
-31.211.131.136:33427::Bulgaria::Pleven::Levski
-192.252.209.155:14455::United States::Georgia::Atlanta
-117.86.138.81:20025::China::Shanghai::Shanghai
-178.62.3.23:30687::United Kingdom::England::London
-218.65.221.24:7302::China::Guangxi::Lilancun
-125.141.139.197:5566::Germany::Land Berlin::Berlin
-192.111.139.165:19402::United States::Georgia::Atlanta
-116.228.160.99:7302::China::Shanghai::Shanghai
-124.164.249.226:7302::China::Shanxi::Anhe
-60.12.215.23:7302::China::Zhejiang::Ningbo
-221.178.239.200:7302::Hong Kong::Central and Western District::Hong Kong
-183.230.141.185:7302::China::Chongqing::Chongqing
-120.224.122.36:7300::China::Shandong::Gaomi
-166.62.83.60:39761::United States::Arizona::Scottsdale
-219.136.135.2:7302::None::None::None
-77.73.90.196:1337::Russia::Moscow Oblast::Serpukhov
-218.29.203.28:7302::China::Henan::Zhengzhou
-36.133.214.97:88::China::Guangdong::Shenzhen
-144.126.142.41:38682::United States::Missouri::St Louis
-223.87.72.142:7300::China::Guangdong::Shenzhen
-218.108.69.94:7300::China::Zhejiang::Hangzhou
-60.255.137.42:7302::China::Sichuan::Chengdu
-195.123.220.212:40031::Netherlands::Drenthe::Meppel
-134.209.23.68:10055::United Kingdom::England::London
-39.152.112.207:7300::China::Liaoning::Shenyang
-39.152.112.207:7302::China::Liaoning::Shenyang
-50.62.30.5:48935::United States::Arizona::Scottsdale
-218.29.203.28:7300::China::Henan::Zhengzhou
-223.100.29.20:7302::China::Beijing::Haidian
-101.32.240.243:42888::Singapore::None::Singapore
-111.20.170.130:7300::China::Shaanxi::Xi'an
-174.64.199.82:4145::United States::Oklahoma::Oklahoma City
-39.153.211.238:7302::China::Guangdong::Shenzhen
-222.245.132.24:7302::China::Hunan::Changteh
-111.160.7.148:7302::China::Tianjin::Tianjin
-119.188.168.145:7302::China::Shandong::Jinan
-60.208.111.114:7302::China::Shandong::Jinan
 120.197.66.226:1080::China::Guangdong::Shenzhen
-180.167.238.98:7302::China::Shanghai::Shanghai
-59.45.209.158:7300::China::Liaoning::Xinmin
-188.165.254.122:9420::France::Hauts-de-France::Roubaix
-163.172.111.6:10366::France::Île-de-France::Paris
-61.180.28.254:20012::China::Hebei::Gaocheng
-98.162.25.29:31679::United States::Oklahoma::Oklahoma City
-58.215.12.59:7302::China::Jiangsu::Suzhou
-114.132.220.223:10808::China::Hebei::Shijiazhuang
-207.188.180.35:9999::United States::Massachusetts::Cambridge
-61.178.172.95:7302::China::Gansu::Lanzhou
-172.105.36.119:10995::India::Maharashtra::Mumbai
-36.26.4.118:7302::China::Zhejiang::Jiaxing
-183.66.144.58:7302::China::Chongqing::Chongqing
-59.51.84.132:7302::China::Hunan::Hengyang
-78.47.239.101:10022::Italy::Latium::Rome
-173.212.221.21:55144::Germany::Bavaria::Nuremberg
-110.249.150.46:7302::China::Hebei::Shijiazhuang
-221.224.44.91:7302::China::Jiangsu::Suzhou
-202.105.238.173:7302::None::None::None
-45.118.145.52:51103::Vietnam::Ho Chi Minh::Bình An
-54.39.87.232:39721::Canada::Quebec::Montreal
-111.75.57.236:20020::China::Beijing::Beijing
-161.35.49.22:63735::United States::New Jersey::North Bergen
-117.86.138.169:20004::China::Jiangxi::Nanchang
-124.223.58.236:8000::China::Beijing::Jingshan
-222.217.240.207:7302::China::Guangxi::Lilancun
-137.220.176.235:1236::Japan::Tokyo::Tokyo
-218.64.122.99:7302::China::Jiangxi::Fenyi
-146.56.184.96:34634::South Korea::Seoul::Seoul
-113.247.221.4:7302::China::Hunan::Changsha
-218.88.241.10:7302::China::Shanghai::Shanghai
-119.91.30.15:8000::China::Beijing::Chaowai
-183.250.109.213:7300::Hong Kong::Tsuen Wan District::Tsuen Wan
-159.65.106.43:9050::United States::Washington::Seattle
-218.89.51.225:7302::China::Sichuan::Liangshan Yizu Zizhizhou
-91.216.190.44:30091::United States::Texas::Dallas
-218.249.73.146:7302::China::Beijing::Beijing
-103.57.222.220:34098::Vietnam::Hanoi::Hanoi
-185.14.29.44:40021::Netherlands::Drenthe::Meppel
-58.216.159.46:7302::China::Jiangsu::Changzhou
-167.99.153.77:36622::United States::New Jersey::North Bergen
-60.12.72.206:7300::China::Zhejiang::Shaoxing
-165.22.223.82:56607::India::Karnataka::Bengaluru
-1.13.165.87:8080::China::Beijing::Haidian
-166.62.118.86:48127::United States::Arizona::Scottsdale
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+24.249.199.12:4145::United States::California::Los Angeles
+79.143.30.163:55418::Russia::Moscow::Moscow
+212.38.189.118:62864::United Kingdom::Scotland::Glasgow
+101.71.121.196:7302::China::Zhejiang::Hangzhou
+36.138.166.30:85::China::Guangdong::Shenzhen
+60.12.77.43:7300::China::Zhejiang::Shaoxing
+112.54.33.47:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
+152.70.246.237:31080::Hong Kong::Central and Western District::Central
+72.206.181.123:4145::United States::Oklahoma::Oklahoma City
+61.240.12.213:7302::China::Beijing::Beijing
+223.96.91.105:7302::China::Beijing::Beijing
+58.18.36.61:7300::China::Inner Mongolia Autonomous Region::Ordos
 218.205.124.54:7302::China::Zhejiang::Hangzhou
-47.108.93.125:10705::China::Sichuan::Chengdu
-117.43.12.96:8003::China::Shanghai::Shanghai
-192.111.130.5:17002::United States::Georgia::Atlanta
-218.23.220.156:7302::China::Anhui::Rongcheng
-104.250.179.66:1080::Mexico::Mexico City::Mexico City
-1.196.217.57:7300::China::Shanghai::Shanghai
-192.252.208.70:14282::United States::Georgia::Atlanta
-58.221.135.158:7302::China::Jiangsu::Nantong
-124.113.224.245:7302::China::Anhui::Rongcheng
-72.223.168.86:57481::United States::Oklahoma::Oklahoma City
-85.172.31.16:33427::Russia::Krasnodarskiy Kray::Krasnodar
-125.141.133.48:5566::United States::Washington::Seattle
-111.75.57.94:20010::China::Guangdong::Shenzhen
-159.65.106.51:9050::Poland::Mazovia::Warsaw
-192.99.247.190:4145::Canada::Quebec::Montreal
-113.128.40.98:7300::China::Shandong::Jinan
-188.165.225.139:46129::France::Hauts-de-France::Roubaix
-91.121.210.56:42191::France::Hauts-de-France::Roubaix
-49.12.235.125:10039::United States::Illinois::Chicago
-221.234.9.242:7302::China::Hubei::Wuhan
-45.76.63.24:26942::United States::Georgia::Atlanta
-193.29.63.45:57299::United States::Illinois::Chicago
-159.69.153.169:5566::Germany::Bavaria::Bischberg
-58.221.186.107:7302::China::Shanghai::Shanghai
-185.126.202.20:65000::Iran::Tehran::Tehran
-45.32.9.254:16578::Japan::Tokyo::Heiwajima
-47.52.254.9:9100::United States::Washington::Seattle
-125.227.225.157:3389::Taiwan::Kaohsiung::Kaohsiung City
-61.180.28.177:20005::China::Fujian::Zhangzhou
-51.83.140.70:8181::United States::Washington::Seattle
-124.205.206.227:7302::China::Beijing::Beijing
-107.189.10.54:29198::Luxembourg::Mersch::Bissen
-158.69.64.142:9200::Sweden::Stockholm County::Stockholm
-36.133.214.97:84::China::Guangdong::Shenzhen
-138.197.197.200:9050::United States::Washington::Seattle
-37.131.202.95:33427::Russia::Sverdlovsk Oblast::Asbest
-202.109.183.139:7302::China::Beijing::Haidian
-69.61.200.104:36181::United States::Ohio::Cincinnati
-103.90.231.93:30084::Vietnam::Ho Chi Minh::Ho Chi Minh City
-72.49.49.11:31034::United States::Ohio::Cincinnati
-218.29.61.178:7302::China::Henan::Zhengzhou
-128.199.138.28:22144::Singapore::None::Singapore
-212.38.189.118:49599::United Kingdom::Scotland::Glasgow
-144.202.117.30:55036::United States::California::Los Angeles
-176.103.51.18:16642::Ukraine::Kharkiv::Kharkiv
-167.99.153.77:35112::United States::New Jersey::North Bergen
+110.52.93.205:7300::China::Hubei::Baishu
+210.12.172.12:7300::China::Beijing::Beijing
+61.180.28.137:20003::China::Guangdong::Shenzhen
+113.204.169.70:7302::China::Chongqing::Chongqing
+219.136.135.2:7302::None::None::None
+39.165.98.152:7302::China::Henan::Zhengzhou
+221.214.218.105:7302::China::Shandong::Yantai
+155.94.235.233:11186::United States::California::Los Angeles
+111.160.114.210:7302::China::Tianjin::Tianjin
+60.190.52.6:7302::China::Zhejiang::Ningbo
+117.190.245.124:7302::China::Guangdong::Shenzhen
+72.195.114.184:4145::United States::Oklahoma::Oklahoma City
+61.180.28.254:20010::China::Shanxi::Taiyuan
 110.83.222.158:7302::China::Fujian::Sanming
+1.196.217.57:7300::China::Shanghai::Shanghai
+111.75.57.175:20001::Hong Kong::Tsuen Wan District::Tsuen Wan
+182.111.75.178:20010::Hong Kong::Tsuen Wan District::Tsuen Wan
+124.161.103.80:7300::China::Sichuan::Chengdu
+222.161.241.26:7302::China::Jilin::Changchun
+113.0.71.246:7302::China::Heilongjiang::Harbin
+192.111.139.165:19402::United States::Georgia::Atlanta
+222.88.201.225:7302::China::Henan::Yingchuan
+50.62.63.126:64405::United States::Arizona::Scottsdale
+47.109.40.23:1080::China::Sichuan::Chengdu
+185.87.121.35:8975::Turkey::Istanbul::Istanbul
+116.55.13.36:7302::China::Yunnan::Kunming
+59.62.245.222:20015::China::Shandong::Lanshan
+116.115.54.121:7302::China::Inner Mongolia Autonomous Region::Ulanqab
+218.65.221.24:7302::China::Guangxi::Lilancun
+43.129.182.197:6969::Hong Kong::Central and Western District::Central
+60.170.76.29:7302::China::Anhui::Rongcheng
+116.115.54.121:7300::China::Inner Mongolia Autonomous Region::Ulanqab
+72.221.164.34:60671::United States::Oklahoma::Oklahoma City
+34.95.224.52:443::Brazil::São Paulo::Sao Paulo
+72.217.216.239:4145::United States::Oklahoma::Oklahoma City
+167.86.98.113:27092::Germany::Bavaria::Nuremberg
+110.249.150.46:7302::China::Hebei::Shijiazhuang
+72.206.181.105:64935::United States::Oklahoma::Oklahoma City
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+116.212.152.95:33427::Cambodia::Phnom Penh::Phnom Penh
+36.133.17.81:92::China::Guangdong::Shenzhen
+79.143.187.58:58393::Germany::Bavaria::Munich
+104.168.87.16:1080::United States::California::San Jose
+58.248.89.3:1080::China::Guangdong::Guangzhou
+36.133.202.102:83::China::Guangdong::Shenzhen
+222.79.57.250:7302::China::Beijing::Beijing
+45.77.46.89:6667::Singapore::None::Queenstown Estate
+60.211.244.158:7300::China::Shandong::Jinan
+220.178.229.83:7302::China::Anhui::Hefei
+220.171.121.3:7302::China::Xinjiang Uyghur Autonomous Region::Ewirgol
+118.242.27.66:7300::China::Shanghai::Xuhui
+111.113.14.244:7302::China::Ningxia Hui Autonomous Region::Yinchuan
+223.71.63.170:7302::China::Beijing::Beijing
+72.221.172.203:4145::United States::Oklahoma::Oklahoma City
+120.36.137.162:7302::China::Fujian::Xiamen
+143.248.55.62:5566::United Kingdom::England::London
+111.41.48.161:7302::China::Heilongjiang::Harbin
+36.133.202.102:82::China::Guangdong::Shenzhen
+193.36.119.67:58341::Taiwan::Taipei City::Taipei
+78.38.108.199:1080::Iran::Sistan and Baluchestan::Zabol
+123.157.100.91:7302::China::Zhejiang::Quzhou
+221.214.109.166:7302::China::Shandong::Jinan
+58.19.230.124:7302::China::Hubei::Jingzhou
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+45.58.40.150:38720::United States::New Jersey::Clifton
+60.12.109.74:7302::China::Zhejiang::Shaoxing
+222.217.240.207:7302::China::Guangxi::Lilancun
+61.132.47.18:54191::China::Jiangsu::Nanjing
+154.92.63.181:8888::Hong Kong::Eastern::Chai Wan
+20.210.86.223:1080::Japan::Tokyo::Tokyo
+93.179.94.133:5678::Russia::Moscow::Moscow
+47.52.254.9:9100::United States::Washington::Seattle
+202.105.238.173:7302::None::None::None
+107.174.67.164:16625::United States::New York::New York
+112.122.189.125:7300::China::Beijing::Beijing
+103.230.212.21:7302::China::Beijing::Beijing
+70.166.167.55:57745::United States::Arizona::Queen Creek
+113.247.221.4:7302::China::Hunan::Changsha
+90.188.18.111:1080::Russia::Altai Krai::Barnaul
+195.149.196.135:1080::Russia::Bryansk Oblast::Trubchëvsk
+72.223.168.86:57481::United States::Oklahoma::Oklahoma City
+47.242.168.35:9090::Hong Kong::Central and Western District::Hong Kong
+192.111.129.145:16894::United States::Georgia::Atlanta
+61.163.35.38:7300::China::Henan::Zhengzhou
+223.100.29.20:7302::China::Beijing::Haidian
+175.24.235.242:7891::United States::Oregon::Portland
+46.36.64.217:33427::Lithuania::Telsiai::Mažeikiai
+178.237.38.23:17850::Belgium::Brussels Capital::Brussels
+5.189.140.8:10439::Germany::Bavaria::Nuremberg
+221.224.44.91:7302::China::Jiangsu::Suzhou
+192.252.209.155:14455::United States::Georgia::Atlanta
+137.220.176.235:1236::Japan::Tokyo::Tokyo
+69.61.200.104:36181::United States::Ohio::Cincinnati
+192.252.214.20:15864::United States::Georgia::Atlanta
+39.153.211.238:7302::China::Guangdong::Shenzhen
+49.51.69.212:21127::United States::California::Los Angeles
+60.208.111.114:7302::China::Shandong::Jinan
+117.86.138.169:20015::Hong Kong::Tsuen Wan District::Tsuen Wan
+91.216.190.44:30091::United States::Texas::Dallas
+183.230.141.185:7300::China::Chongqing::Chongqing
+36.133.202.102:85::China::Guangdong::Shenzhen
+192.111.130.5:17002::United States::Georgia::Atlanta
+59.61.227.37:7302::China::Fujian::Qingzhou
+180.167.238.98:7302::China::Shanghai::Shanghai
+111.33.92.16:7302::China::Tianjin::Tianjin
+183.134.199.108:7300::China::Gansu::Yuzhong Chengguanzhen
+111.224.163.211:1080::China::Hebei::Gaocheng
+175.178.60.133:7890::Hong Kong::Central and Western District::Central
+218.108.69.94:61445::China::Zhejiang::Hangzhou
+60.255.137.42:7302::China::Sichuan::Chengdu
+222.245.132.24:7302::China::Hunan::Changteh
+176.103.48.10:30421::Ukraine::Kharkiv::Kharkiv
+58.221.135.158:7302::China::Jiangsu::Nantong
+104.131.8.62:10994::United States::New Jersey::Clifton
+137.220.176.150:1236::Japan::Tokyo::Tokyo
+61.178.172.95:7302::China::Gansu::Lanzhou
+39.152.104.167:7300::China::Liaoning::Shenyang
+45.142.212.31:30002::Poland::Subcarpathia::Rzeszów
+148.251.52.99:53333::Russia::Moscow::Moscow
+91.216.190.44:30241::United States::Texas::Dallas
+124.113.224.245:7302::China::Anhui::Rongcheng
+176.103.48.10:23055::Ukraine::Kharkiv::Kharkiv
+51.83.21.224:16379::United States::Washington::Seattle
+180.141.90.181:7302::China::Guangxi::Nanning
+183.215.125.101:7302::China::Hunan::Changsha
+113.128.40.98:7300::China::Shandong::Jinan
+165.22.223.82:24095::India::Karnataka::Bengaluru
+1.180.0.162:7302::China::Inner Mongolia Autonomous Region::Bieligutai
+180.168.152.206:7302::China::Shanghai::Huangpu
+218.64.85.211:7302::China::Jiangxi::Nanchang Shi
+159.65.106.51:9050::Sweden::Stockholm County::Stockholm
+111.12.208.226:7302::China::Guangdong::Shenzhen
+98.162.25.29:31679::United States::Oklahoma::Oklahoma City
+124.223.74.115:7890::United States::California::Canyon Country
+60.6.215.241:7302::China::Hebei::Xingtai
+138.197.193.107:9050::United States::Washington::Seattle
+125.227.225.157:3389::Taiwan::Kaohsiung::Kaohsiung City
+112.250.106.50:7302::China::Shandong::Bizidian
+88.198.195.219:10006::Netherlands::North Holland::Amsterdam
+154.92.46.196:8888::Hong Kong::Eastern::Chai Wan
+61.135.30.54:7302::China::Beijing::Xicheng District
+220.170.145.103:7302::China::Hunan::Changsha Shi
+59.49.96.190:7302::China::Shanxi::Taiyuan
+138.197.208.39:9050::United States::Washington::Seattle
+222.134.87.118:7302::China::Shandong::Zibo
+103.234.72.6:10085::Hong Kong::Wan Chai::Wanchai
+221.224.81.83:7302::China::Jiangsu::Suzhou
+188.165.225.139:27146::France::Hauts-de-France::Roubaix
+45.63.48.71:10808::United States::California::Los Angeles
+183.245.101.198:7302::China::Zhejiang::Wenzhou
+72.49.49.11:31034::United States::Ohio::Cincinnati
+136.243.106.188:10081::Germany::Saxony::Falkenstein
+192.111.139.165:4145::United States::Georgia::Atlanta
+36.138.93.224:88::China::Guangdong::Shenzhen
+46.101.5.73:48528::United Kingdom::England::London
+142.93.6.231:57987::United States::New Jersey::North Bergen
+85.172.31.16:33427::Russia::Krasnodarskiy Kray::Krasnodar
+114.132.220.223:10808::China::Hebei::Shijiazhuang
+5.11.17.230:1080::Iraq::Nineveh::Mosul
+158.69.64.142:9200::United States::Washington::Seattle
+62.171.144.238:5566::Austria::Vienna::Vienna
+206.189.251.0:33335::Germany::Hesse::Frankfurt am Main
+125.141.139.197:5566::United States::Washington::Seattle
+111.75.57.32:20006::China::Jiangsu::Changzhou
+54.37.203.54:32556::Germany::Hesse::Limburg an der Lahn
+218.108.110.210:7302::China::Zhejiang::Huzhou Shi
+45.195.68.182:1080::Hong Kong::Central and Western District::Hong Kong
+104.131.8.62:19709::United States::New Jersey::Clifton
+62.113.115.94:16072::Russia::Moscow::Moscow
+49.51.189.171:21127::United States::California::Los Angeles
+43.224.10.39:6667::India::Gujarat::Surat
+139.59.47.116:6603::India::Karnataka::Bengaluru
+51.83.140.70:8181::Luxembourg::Mersch::Roost
+125.141.133.48:5566::Switzerland::Zurich::Zurich
+222.223.124.205:7302::China::Beijing::Beijing
+65.108.86.229:5566::United States::Washington::Seattle
+162.144.105.147:44316::United States::Massachusetts::Burlington
+178.237.38.24:55544::Belgium::Brussels Capital::Brussels
+138.68.51.109:9050::United States::Washington::Seattle
+221.234.10.105:7302::China::Hubei::Wuhan
