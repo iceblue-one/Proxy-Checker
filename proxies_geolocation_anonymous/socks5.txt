@@ -1,13 +1,11 @@
+45.67.229.104:30002::Hungary::Jász-Nagykun-Szolnok::Szolnok
+195.206.107.202:57772::Spain::Madrid::Madrid
 61.185.22.233:1080::Japan::Tokyo::Tokyo
-45.142.214.123:30002::Netherlands::North Holland::Amsterdam
-183.129.157.62:7302::China::Zhejiang::Hangzhou
-218.205.124.54:7302::China::Zhejiang::Hangzhou
-143.248.55.62:5566::Germany::North Rhine-Westphalia::Düsseldorf
-159.65.106.46:9050::United States::Washington::Seattle
-159.65.106.51:9050::Germany::Bavaria::Nuremberg
-221.214.109.166:7300::China::Shandong::Jinan
-64.227.53.22:9050::United States::Washington::Seattle
-138.197.217.238:9050::Poland::Greater Poland::Poznań
-158.69.64.142:9200::Netherlands::North Holland::Amsterdam
-111.193.126.175:1080::Russia::Moscow::Zelenograd
-144.202.117.30:55036::United States::California::Los Angeles
+193.142.146.157:9150::Norway::Vestfold og Telemark::Sandefjord
+125.141.139.198:5566::Germany::Bavaria::Nuremberg
+64.227.53.22:9050::United Kingdom::England::London
+114.88.226.20:1080::Singapore::None::Singapore
+143.248.55.62:5566::Netherlands::North Holland::Alkmaar
+138.68.18.219:9050::Germany::Bavaria::Nuremberg
+192.249.127.96:9999::Sweden::Stockholm County::Stockholm
+49.12.225.148:10030::Spain::Catalonia::Barcelona
