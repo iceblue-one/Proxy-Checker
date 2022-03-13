@@ -1,58 +1,95 @@
-38.114.64.123:48324::United States::Illinois::Trenton
-212.225.227.96:4153::Spain::Andalusia::La Roda de Andalucia
-178.212.54.137:5678::Poland::Lubusz::Strzelce Krajenskie
-185.252.41.32:5678::Turkey::Sakarya::Adapazarı
-8.42.68.197:39593::United States::Colorado::Broomfield
-181.12.80.2:12000::Argentina::Buenos Aires F.D.::Buenos Aires
-103.146.30.11:4145::Indonesia::Jakarta::Kuningan Barat
-45.182.115.104:4153::Argentina::Buenos Aires::Piguee
-113.23.205.87:1080::Malaysia::Selangor::Kampong Baharu Balakong
-31.206.38.48:37630::Turkey::Tekirdağ::Tekirdağ
+8.42.68.113:39593::United States::Colorado::Denver
+201.220.128.92:3000::Honduras::Departamento de Yoro::Olanchito
+195.128.141.1:4153::Slovenia::Ljubljana::Ljubljana
+155.133.83.1:58351::Poland::Kujawsko-Pomorskie::Kamien Krajenski
+191.97.2.198:5678::Colombia::Bogota D.C.::Bogotá
+88.220.67.193:5678::Poland::Subcarpathia::Krosno
+217.115.213.187:4145::Romania::Brasov::Predeal
+177.87.230.31:43573::Brazil::Santa Catarina::Tubarao
+95.0.206.211:10820::Turkey::Istanbul::Istanbul
+45.162.4.25:51508::Brazil::Bahia::Salvador
+138.99.95.9:4145::Brazil::Ceara::Baturite
+85.196.136.9:4153::Bulgaria::Stara Zagora::Stara Zagora
+89.237.33.129:51549::Russia::Orenburg Oblast::Novotroitsk
+131.72.202.1:1080::Brazil::Sao Paulo::Rio Claro
+205.164.66.7:4153::Brazil::Goias::Aparecida de Goiania
+177.139.130.157:4153::Brazil::Sao Paulo::Guarulhos
+45.122.44.17:5678::India::National Capital Territory of Delhi::New Delhi
+123.231.152.171:4145::Indonesia::South Sulawesi::Makassar
+187.87.198.250:3629::Brazil::Bahia::Itaberaba
+103.156.147.5:5678::Indonesia::Central Java::Pati
+186.64.81.4:5678::Argentina::Cordoba::Justiniano Posse
+45.249.101.4:56457::Bangladesh::Dhaka Division::Dhaka
+202.169.49.222:5678::Indonesia::Jakarta::Jakarta
+103.82.8.197:4153::Bangladesh::Dhaka Division::Dhaka
+45.126.169.185:4145::India::Uttar Pradesh::Aligarh
+116.199.170.65:4145::India::Dadra and Nagar Haveli and Daman and Diu::Dadra
+41.190.232.52:36926::DR Congo::Lomami::Gandajika
+131.221.182.14:4153::Brazil::Mato Grosso::Primavera do Leste
+115.127.121.198:5678::Bangladesh::Khulna Division::Khulna
+36.89.251.210:5678::Indonesia::Jakarta::Jakarta
+45.125.222.97:47239::Bangladesh::Dhaka Division::Dhaka
+147.139.139.245:5678::Indonesia::Jakarta::Jakarta
+103.134.38.102:1080::Bangladesh::Dhaka Division::Palash
+183.251.50.152:4145::China::Fujian::Qingzhou
+201.140.116.170:4153::Mexico::Sinaloa::Mazatlán
+92.51.201.65:4145::Ireland::Leinster::Dublin
+12.158.87.26:39593::United States::Indiana::Indianapolis
+190.109.196.44:53916::Guatemala::Departamento de Guatemala::Guatemala City
+169.255.139.5:60279::South Sudan::Central Equatoria::Juba
+31.182.13.17:34715::Poland::Łódź Voivodeship::Lodz
+177.184.67.25:4145::Brazil::Rio de Janeiro::Rio de Janeiro
+36.37.104.99:34040::Indonesia::Jakarta::Pegadungan
+45.117.228.153:4145::Malaysia::Selangor::Petaling Jaya
+210.56.252.9:4145::Australia::Victoria::Waurn Ponds
+46.28.72.75:4153::Iran::Tehran::Tehran
+14.102.44.1:34047::India::Maharashtra::Solapur
+1.179.130.201:4153::Thailand::Bangkok::Khwaeng Thung Song Hong
+201.217.55.97:43110::Paraguay::Asuncion::Asunción
+170.254.255.238:45816::Brazil::Paraíba::João Pessoa
+179.189.244.224:51327::Brazil::Pernambuco::Ipojuca
+194.33.124.251:5678::Germany::Saxony::Falkenstein
+59.152.102.181:4153::Bangladesh::Dhaka Division::Dhaka
+36.66.36.252:4153::Indonesia::Jakarta::Jakarta
+192.249.127.96:9999::United States::Washington::Seattle
+103.199.97.5:39825::India::National Capital Territory of Delhi::New Delhi
+144.76.99.207:16006::United Kingdom::England::London
+218.21.78.35:4145::China::Guangxi::Lilancun
+183.6.50.70:4153::China::Beijing::Beijing
+138.197.208.39:9050::Sweden::Stockholm County::Stockholm
+181.114.232.57:31337::Chile::Region del Biobio::Yumbel
+161.22.35.96:5678::Venezuela::Distrito Federal::Caracas
+85.196.136.17:4153::Bulgaria::Stara Zagora::Stara Zagora
+108.175.23.137:13135::United States::Texas::Ballinger
+177.86.64.253:3629::Brazil::Sao Paulo::Pirapora do Bom Jesus
+190.180.35.149:5678::Bolivia::Departamento de Santa Cruz::Santa Cruz
+103.211.8.169:52616::India::Telangana::Hyderabad
+124.126.18.167:8000::China::Beijing::Beijing
+103.44.12.37:4145::India::Andhra Pradesh::Vijayawada
+94.136.157.85:60030::Slovakia::Kosice::Košice
+222.237.243.156:5006::South Korea::Seoul::Seoul
+176.222.63.2:3629::Iraq::Baghdad::Baghdad
+103.60.187.1:52195::India::Uttar Pradesh::Noida
+202.191.15.253:4145::Australia::New South Wales::Balmain
+80.191.169.76:4145::Iran::Kerman::Anār
+103.149.104.161:4153::Bangladesh::Dhaka Division::Dhaka
+115.243.142.185:5678::India::Assam::Guwahati
+159.65.106.51:9050::Netherlands::North Holland::Amsterdam
+2.180.24.135:4153::Iran::Razavi Khorasan::Mashhad
+138.68.252.165:9050::United States::Washington::Seattle
+101.53.158.48:9600::Germany::North Rhine-Westphalia::Bonn
+162.144.105.149:44316::United States::Massachusetts::Burlington
+143.248.55.62:5566::Netherlands::North Holland::Amsterdam
+170.254.255.234:45816::Brazil::Paraíba::João Pessoa
 103.163.36.142:4145::Indonesia::East Java::Blitar
-92.245.102.243:1080::Kyrgyzstan::Gorod Bishkek::Bishkek
-119.82.242.59:4145::Indonesia::East Java::Surabaya
-45.224.28.33:1080::Argentina::Chaco::Charata
-45.166.246.13:4153::Brazil::Mato Grosso do Sul::Ponta Pora
-80.48.255.154:4145::Poland::Lower Silesia::Węgry
-190.181.100.1:4153::Argentina::Buenos Aires F.D.::Buenos Aires
-168.181.242.81:4145::Brazil::Espirito Santo::Aracruz
-185.43.249.132:39316::Ukraine::Kharkiv::Kharkiv
-45.175.177.0:4145::Brazil::Goias::Goiânia
-103.212.92.253:41363::India::Maharashtra::Mumbai
-1.9.167.36:60489::Malaysia::Kuala Lumpur::Kuala Lumpur
-109.122.81.9:57553::Serbia::Central Serbia::Barič
-103.85.103.25:5678::India::Maharashtra::Navi Mumbai
-103.151.219.18:1080::Indonesia::East Java::Lumajang
-87.236.210.62:443::Finland::Uusimaa::Helsinki
-113.53.247.221:4153::Thailand::Bangkok::Khwaeng Thung Song Hong
-103.242.104.44:5678::Indonesia::South Sulawesi::Pinrang
-103.134.56.81:4153::Bangladesh::Dhaka Division::Dhaka
-45.182.115.124:4153::Argentina::Buenos Aires::Piguee
-202.158.49.142:39172::Indonesia::West Java::Bekasi
-182.16.171.65:51459::Indonesia::Jakarta::Jakarta
-185.3.215.228:5678::Iran::Tehran::Shahrīār
-103.5.63.214:40544::Philippines::Central Luzon::San Jose del Monte
-165.90.60.69:4145::South Africa::Western Cape::Cape Town
-45.67.229.104:30002::Germany::Baden-Württemberg::Bad Friedrichshall
-89.25.23.212:4153::Bulgaria::Plovdiv::Asenovgrad
-85.196.136.13:4153::Bulgaria::Stara Zagora::Stara Zagora
-200.220.202.1:4145::Brazil::Rio de Janeiro::Cabo Frio
-103.82.233.2:1089::Indonesia::West Java::Bekasi
-82.99.203.78:58523::Iran::Khuzestan::Khorramshahr
-217.219.91.135:4153::Iran::Sistan and Baluchestan::Sarāvān
-101.53.158.48:9600::Norway::Vestfold og Telemark::Sandefjord
-114.8.134.53:5678::Indonesia::West Java::Bogor
-87.236.210.48:443::Finland::Uusimaa::Helsinki
-37.131.164.94:59341::Poland::Lubusz::Drezdenko
-62.33.235.49:4153::Russia::Ivanovo Oblast::Teykovo
-193.34.161.137:44436::Russia::Altai Krai::Barnaul
-185.97.132.45:5678::Palestinian Territory::West Bank::Ramallah
-117.103.5.134:60113::Indonesia::Yogyakarta::Yogyakarta
-121.58.195.140:4145::Philippines::Metro Manila::Pasig
-103.60.138.65:4153::India::Tamil Nadu::Chennai
-61.69.123.157:5678::Australia::Queensland::Brisbane
-1.179.173.114:4153::Thailand::Surin::Tha Tum
-103.94.8.53:5678::Indonesia::Yogyakarta::Yogyakarta
-114.6.87.177:36732::Indonesia::East Java::Malang
-94.130.171.189:10015::United Kingdom::England::London
-158.69.64.142:9200::United States::Washington::Seattle
+31.209.96.173:51688::Cyprus::Nicosia::Nicosia
+45.249.101.1:56457::Bangladesh::Dhaka Division::Dhaka
+103.78.27.46:4145::Indonesia::Jakarta::Kebayoran Lama Selatan
+103.87.212.15:4153::Bangladesh::Dhaka Division::Dhaka
+103.77.157.242:4145::Indonesia::East Java::Malang
+103.84.39.95:30740::Bangladesh::Rangpur Division::Uttara
+202.124.43.248:4145::Cambodia::Phnom Penh::Phnom Penh
+113.247.233.22:55066::China::Hunan::Changsha
+138.68.18.219:9050::United States::Washington::Seattle
+94.130.171.189:10003::United Kingdom::England::London
+45.63.117.130:9050::Germany::Bavaria::Falkenstein
