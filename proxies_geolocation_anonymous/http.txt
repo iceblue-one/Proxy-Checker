@@ -1,52 +1,63 @@
-91.209.114.181:6789::Hungary::Budapest::Budapest
-8.214.41.50:80::Singapore::None::Singapore
-190.2.209.2:999::Colombia::Departamento del Meta::Villavicencio
-131.100.48.177:999::Colombia::Departamento del Huila::Neiva
-103.209.88.67:8080::India::Andhra Pradesh::Guntur
-45.175.239.6:999::Mexico::Hidalgo::Actopan
-143.208.59.2:999::Guatemala::Departamento de Chiquimula::Esquipulas
-103.136.82.252:83::India::Jharkhand::Bukru
-187.49.70.238:8080::Brazil::Rio Grande do Sul::Porto Alegre
-190.90.22.93:999::Colombia::Departamento de Arauca::Saravena
-85.25.95.117:5566::Germany::Land Berlin::Berlin
-154.236.168.179:1981::Egypt::Cairo Governorate::Cairo
-200.13.154.49:8080::Bolivia::Departamento de Tarija::Tarija
-172.96.169.33:9955::Puerto Rico::Bayamón::Bayamón
-190.119.166.36:999::Peru::Lima::Lima
-138.117.85.97:999::Colombia::Departamento del Huila::Pitalito
-43.241.29.201:8080::India::Maharashtra::Mumbai
-85.25.208.198:5566::Germany::North Rhine-Westphalia::Bonn
-145.40.73.107:9443::Singapore::None::Singapore
-103.255.242.115:8080::Indonesia::Yogyakarta::Yogyakarta
-217.73.139.204:8080::Albania::Qarku i Vlores::Sarandë
-178.219.37.70:8080::Russia::Moscow Oblast::Khimki
-38.130.248.182:999::Dominican Republic::Provincia de Barahona::Santa Cruz de Barahona
-101.53.158.48:9200::Sweden::Stockholm County::Stockholm
-45.227.95.2:8085::Argentina::Buenos Aires::Lomas de Zamora
-223.100.215.26:8080::China::Liaoning::Shenyang
-45.190.79.160:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
-193.150.117.85:8000::Russia::Moscow::Moscow
-103.143.195.65:1080::Indonesia::North Sumatra::Medan
-74.207.235.154:8082::United States::Nevada::Las Vegas
-62.75.229.167:5566::Germany::Bavaria::Nuremberg
+99.71.86.199:8118::United States::Texas::Houston
+103.159.46.41:83::India::Gujarat::Ahmedabad
+158.69.72.138:9300::Germany::North Rhine-Westphalia::Düsseldorf
+200.39.63.204:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
+200.155.139.242:3128::Brazil::Rio Grande do Sul::Porto Alegre
+186.3.38.201:999::Ecuador::Provincia del Guayas::Guayaquil
+45.5.57.122:8080::Peru::Lima region::Jesus Maria
+85.25.93.136:5566::Germany::North Rhine-Westphalia::Bonn
+91.209.114.17:6789::Hungary::Budapest::Budapest
+198.52.241.12:999::Puerto Rico::Corozal::Corozal
+45.161.115.249:999::Chile::Coquimbo Region::Salamanca
+191.241.187.245:45006::Brazil::Sergipe::Nossa Senhora da Gloria
+138.99.176.89:999::Peru::Lima::Lima
+154.236.184.74:1981::Egypt::Cairo Governorate::Cairo
+64.210.67.19:999::Venezuela::Vargas::La Guaira
+121.22.90.90:443::China::Hebei::Qinhuangdao
+103.155.54.73:84::India::West Bengal::Bhagwangola
 103.209.230.113:8080::Bangladesh::Rangpur Division::Rangpur City
-103.205.183.18:55443::Bangladesh::Dhaka Division::Dhaka
-209.145.35.81:9013::United States::Missouri::St Louis
-223.100.215.24:8080::China::Liaoning::Shenyang
-189.129.106.41:999::Mexico::Chiapas::Tuxtla Gutiérrez
-188.138.11.48:5566::Germany::Bavaria::Nuremberg
-190.83.119.193:999::Guatemala::Departamento de Guatemala::Fraijanes
-193.193.240.36:45944::Kazakhstan::West Kazakhstan::Oral
-103.156.145.17:83::India::Gujarat::Gandhinagar
-85.25.95.231:5566::Germany::North Rhine-Westphalia::Bonn
-84.193.39.37:8118::Netherlands::North Holland::Amsterdam
-182.70.117.107:83::India::Gujarat::Ahmedabad
-185.82.99.123:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
-200.32.80.54:999::Colombia::Departamento de Narino::Tuquerres
-190.171.168.90:999::Chile::Santiago Metropolitan::Buin
-45.181.122.9:999::Chile::O'Higgins Region::Rancagua
-85.25.198.22:5566::Germany::Land Berlin::Berlin
-188.138.106.158:5566::Germany::North Rhine-Westphalia::Bonn
-111.68.26.237:8080::Indonesia::Yogyakarta::Sleman
-181.198.86.74:999::Ecuador::Provincia del Guayas::Guayaquil
+170.83.60.19:55443::Brazil::Minas Gerais::Uberlândia
 157.100.53.106:999::Ecuador::Provincia de El Oro::Machala
+192.109.219.67:8080::Albania::Tirana::Tirana
+85.25.4.28:5566::Germany::North Rhine-Westphalia::Bonn
+103.114.10.250:8080::Bangladesh::Chittagong::Jahanabad
+45.185.206.78:999::Argentina::Neuquen::Neuquén
+182.52.140.57:8080::Thailand::Bangkok::Khwaeng Thung Song Hong
+49.128.185.109:8181::Indonesia::West Nusa Tenggara::Mataram
+181.209.111.147:999::Argentina::Buenos Aires::Benavidez
+45.161.115.80:999::Chile::Coquimbo Region::Salamanca
+200.37.187.186:999::Peru::Region de Huanuco::Huánuco
+176.236.232.52:9090::Turkey::Istanbul::Istanbul
+170.244.210.109:999::Ecuador::Provincia del Guayas::Milagro
+45.229.56.64:999::Panama::Provincia de Panama::Panama City
+165.16.80.121:1981::Libya::Tripoli::Tripoli
+103.151.140.165:8080::Indonesia::Central Java::Pati
+223.100.215.25:8080::China::Liaoning::Shenyang
+85.25.235.229:5566::Germany::Land Berlin::Berlin
+62.75.229.77:5566::Germany::Bavaria::Nuremberg
+183.3.218.34:8001::South Africa::Gauteng::Johannesburg
+174.139.41.164:9090::United States::California::Los Angeles
+203.170.209.7:8081::Thailand::Khon Kaen::Khon Kaen
+119.82.24.56:2069::United States::New York::New York
+190.226.32.218:8090::Argentina::San Juan::San Juan
+91.93.118.3:8090::Turkey::Ankara::Ankara
+85.25.226.242:5566::Germany::Bavaria::Nuremberg
+85.25.199.122:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.196.76:5566::Germany::Bavaria::Nuremberg
+77.104.97.5:8080::Iran::Tehran::Tehran
+14.161.252.185:55443::Vietnam::Hanoi::Hanoi
+102.68.135.129:8080::Libya::Tripoli::Tripoli
+85.25.91.155:5566::Germany::Bavaria::Nuremberg
+201.150.117.160:999::Mexico::Hidalgo::Actopan
+85.25.246.206:5566::Germany::North Rhine-Westphalia::Bonn
+185.58.17.97:8080::Ireland::Leinster::Clogherhead
+187.102.209.133:999::Peru::Lima::Lima
+145.40.73.107:10013::Singapore::None::Singapore
+190.128.231.146:8080::Paraguay::Asuncion::Asunción
+68.208.51.61:8080::United States::Mississippi::Greenwood
+85.25.199.50:5566::Germany::Baden-Württemberg::Karlsruhe
+103.130.70.209:83::India::West Bengal::Siliguri
+200.24.146.68:999::Ecuador::Provincia de Esmeraldas::Esmeraldas
+45.71.203.125:999::Ecuador::Provincia de Loja::Loja
+190.221.33.10:999::Argentina::Buenos Aires::Piguee
+190.110.111.156:999::Chile::O'Higgins Region::San Vicente
