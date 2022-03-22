@@ -1,17 +1,18 @@
-20.210.35.124:1080::Japan::Tokyo::Tokyo
-67.201.33.9:25280::United States::California::Buena Park
-78.38.108.199:1080::Iran::Sistan and Baluchestan::Zabol
-120.198.46.16:7302::China::Guangdong::Shenzhen
-118.242.27.66:7300::China::Shanghai::Xuhui
-34.95.224.52:443::Brazil::São Paulo::Sao Paulo
-144.123.103.218:7302::China::Shandong::Xintai
-222.74.65.122:7302::China::Inner Mongolia Autonomous Region::Chifeng
-218.201.54.40:7302::China::Guangdong::Shenzhen
-111.33.92.16:7302::China::Tianjin::Tianjin
-159.65.180.9:9050::United Kingdom::England::Harrow
-49.234.238.133:9999::China::Guangdong::Shenzhen
-207.228.63.2:52305::United States::Virginia::Richmond
-66.135.227.178:4145::United States::Hawaii::Honolulu
+192.252.220.92:17328::United States::California::Los Angeles
+167.114.89.169:37666::Canada::Quebec::Montreal
+60.165.35.64:7302::China::Gansu::Lanzhou
+207.180.204.70:65432::Germany::Bavaria::Nuremberg
+125.141.139.55:5566::United States::Washington::Seattle
+125.141.133.98:5566::United States::Washington::Seattle
+218.88.241.10:7302::China::Shanghai::Shanghai
 111.12.208.230:7302::China::Guangdong::Shenzhen
-45.142.212.31:30003::Malaysia::Sabah::Kota Kinabalu
-93.95.227.154:9050::Spain::Catalonia::Barcelona
+180.168.152.206:7302::China::Shanghai::Huangpu
+124.67.161.108:7302::China::Inner Mongolia Autonomous Region::Hohhot
+47.109.40.23:1080::China::Sichuan::Chengdu
+118.242.27.66:7300::China::Shanghai::Xuhui
+183.215.10.69:7302::China::Hunan::Changsha
+125.141.139.198:5566::United States::Washington::Seattle
+211.141.57.13:7302::China::Jilin::Jilin City
+58.217.115.142:7302::China::Jiangsu::Nanjing
+112.95.227.6:7302::China::Guangdong::Shenzhen
+58.18.36.61:7302::China::Inner Mongolia Autonomous Region::Hohhot
