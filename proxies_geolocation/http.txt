@@ -1,64 +1,71 @@
-165.16.60.1:8080::Libya::Tripoli::Tripoli
-117.20.216.218:8080::South Korea::Gyeongsangbuk-do::Gumi
-171.103.58.122:8080::Thailand::Bangkok::Bangkok
-14.190.214.69:19132::Vietnam::Hanoi::Hanoi
-139.255.74.125:8080::Indonesia::West Java::Cibuntu
 190.26.201.194:8080::Colombia::Departamento del Meta::Castilla La Nueva
-103.142.108.145:8080::India::Tamil Nadu::Coimbatore
-5.160.91.130:3128::Iran::Tehran::Tehran
-181.48.101.245:3128::Colombia::Antioquia::Medellín
-67.73.184.178:8081::Colombia::Bogota D.C.::Bogotá
-190.110.99.106:999::Chile::O'Higgins Region::Rancagua
-47.117.133.200:22::China::Shanghai::Shanghai
-118.69.176.168:8080::Vietnam::Ho Chi Minh::Ho Chi Minh City
-64.185.0.17:8080::United States::Texas::Lamesa
+165.16.60.1:8080::Libya::Tripoli::Tripoli
+170.79.12.72:9090::Brazil::Piaui::Teresina
+171.103.58.122:8080::Thailand::Bangkok::Bangkok
+49.0.39.186:8080::Bangladesh::Dhaka Division::Dhaka
+203.130.23.250:8080::Pakistan::Punjab::Lahore
+189.90.255.107:8080::Brazil::Minas Gerais::Itabira
+170.238.10.129:999::Argentina::Santa Fe::Rosario
+212.92.204.54:8080::Croatia::City of Zagreb::Zagreb
+80.87.213.111:8080::Slovakia::Zilina::Žilina
+36.89.252.155:8080::Indonesia::Jakarta::Jakarta
 181.129.248.126:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-193.150.117.78:8000::Russia::Moscow::Moscow
-84.53.247.204:53281::Russia::Vladimirskaya Oblast'::Vladimir
-193.53.87.219:33128::Turkey::Bursa::Bursa
-103.144.18.74:8080::Indonesia::East Java::Surabaya
-103.159.46.14:82::India::Gujarat::Ahmedabad
-95.0.219.234:8080::Turkey::Bartın::Ulus
-154.113.32.26:8080::Nigeria::Lagos::Lagos
-118.97.235.234:8080::Indonesia::Jakarta::Jakarta
-162.219.119.225:8080::United States::Arkansas::Smithville
-1.1.189.58:8080::Thailand::Bueng Kan::Si Wilai
-193.53.87.222:33128::Turkey::Bursa::Bursa
-85.25.72.91:5566::Germany::Bavaria::Nuremberg
-203.170.209.7:8081::Thailand::Bangkok::Phaya Thai
-101.51.106.70:49285::Thailand::Songkhla::Songkhla
-200.39.153.1:999::Peru::La Libertad::Trujillo
-103.81.214.254:83::India::Uttarakhand::Chamoli
-103.161.164.101:8181::Indonesia::West Java::Ciamis
-182.253.108.186:8080::Indonesia::Central Java::Pemalang
-187.62.67.134:45005::Brazil::Sergipe::Aracaju
-213.32.75.44:5566::United States::Washington::Seattle
-194.233.69.90:443::Singapore::None::Singapore
-85.25.208.212:5566::Germany::Bavaria::Nuremberg
-103.36.35.135:8080::Indonesia::Jakarta::Jakarta
-200.37.240.130:999::Peru::Region de Huanuco::Huánuco
-175.111.129.154:8080::India::Rajasthan::Jaipur
-68.183.58.145:5566::Sweden::Stockholm County::Stockholm
-190.217.10.12:999::Venezuela::Distrito Federal::Caracas
-85.25.117.68:5566::Germany::North Rhine-Westphalia::Bonn
-45.190.79.164:999::Mexico::Jalisco::Yahualica de Gonzalez Gallo
-77.238.129.14:55443::Russia::Voronezh Oblast::Voronezh
-107.173.156.247:8123::Denmark::Capital Region::Graested
-94.75.76.3:8080::Poland::Mazovia::Warsaw
-103.152.100.187:8080::Pakistan::Punjab::Lahore
-139.99.99.165:8000::Singapore::None::Singapore
-80.191.46.60:1515::Iran::Tehran::Tehran
-203.189.231.154:8080::Bangladesh::Rangpur Division::Uttara
+186.159.3.193:56861::Colombia::Antioquia::Medellín
+190.121.128.217:999::Colombia::Departamento de Santander::Bucaramanga
 202.136.165.22:80::Singapore::None::Queenstown Estate
-45.146.106.22:37192::Indonesia::East Java::Mojokerto
-139.255.71.90:8080::Indonesia::Jakarta::Jakarta
-202.191.108.42:8080::Myanmar::Chin State::Falam
-177.53.155.21:999::Peru::Lima::Lima
-185.189.199.75:23500::Bulgaria::Blagoevgrad::Bansko
-194.44.15.222:8081::Ukraine::Lviv Oblast::Bryukhovychi
-36.95.112.65:41890::Indonesia::Jakarta::Jakarta
-188.133.157.61:10000::Russia::Moscow::Moscow
-45.169.148.21:999::Chile::Santiago Metropolitan::Santiago
-45.173.231.155:999::Ecuador::Provincia del Guayas::Guayaquil
-212.174.44.41:8080::Turkey::Gaziantep::Gaziantep
-188.138.106.143:5566::Germany::Land Berlin::Berlin
+95.140.31.39:41890::Russia::Moscow::Moscow
+203.189.142.168:53281::Cambodia::Phnom Penh::Phnom Penh
+181.129.183.19:53281::Colombia::Antioquia::Medellín
+103.156.249.34:8085::Indonesia::East Java::Malang
+110.235.250.155:8080::Cambodia::Phnom Penh::Phnom Penh
+84.53.247.204:53281::Russia::Vladimirskaya Oblast'::Vladimir
+190.217.10.12:999::Venezuela::Distrito Federal::Caracas
+27.116.51.119:6666::India::Gujarat::Gandhinagar
+190.112.219.57:999::Argentina::Santa Fe::Rosario
+134.209.148.107:8081::India::Karnataka::Bengaluru
+186.208.81.214:3129::Brazil::Rio Grande do Sul::Sertao
+172.96.169.33:9955::Puerto Rico::Bayamón::Bayamón
+173.196.205.170:8080::United States::California::Santa Ana
+41.203.83.66:8080::Nigeria::Lagos::Lagos
+201.219.194.189:8877::Colombia::Bogota D.C.::Bogotá
+45.189.112.225:999::Ecuador::Provincia del Guayas::Guayaquil
+188.138.106.133:5566::Germany::Bavaria::Nuremberg
+123.231.221.243:6969::Indonesia::South Sulawesi::Makassar
+89.109.252.129:8080::Russia::Moscow Oblast::Balashikha
+109.72.239.54:41890::Russia::Moscow::Moscow
+41.60.235.216:34098::Kenya::Nairobi Province::Nairobi
+193.150.117.78:8000::Russia::Moscow::Moscow
+80.50.139.22:8080::Poland::Mazovia::Warsaw
+1.179.148.9:55636::Thailand::Chai Nat::Sankhaburi
+103.146.196.35:3127::Indonesia::East Java::Banyuwangi
+103.149.238.102:9090::Indonesia::East Java::Pasuruan
+43.224.10.36:6666::India::Gujarat::Surat
+85.25.72.91:5566::Germany::North Rhine-Westphalia::Bonn
+5.131.243.11:8080::Russia::Novosibirsk Oblast::Novosibirsk
+85.25.199.50:5566::Germany::Bavaria::Nuremberg
+213.32.75.44:5566::Luxembourg::Luxembourg::Luxembourg
+195.191.182.77:8080::Russia::Lipetsk Oblast::Gryazi
+170.79.235.3:999::Chile::Santiago Metropolitan::Buin
+85.25.118.155:5566::Germany::North Rhine-Westphalia::Bonn
+103.68.207.34:83::India::Haryana::Bahadurgarh
+181.188.206.46:999::Ecuador::Provincia del Azuay::San Felipe de Ona
+139.99.99.165:3128::Singapore::None::Singapore
+85.25.201.22:5566::Germany::North Rhine-Westphalia::Bonn
+157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
+80.244.230.86:8080::Russia::Moscow::Moscow
+49.231.174.182:80::Thailand::Bangkok::Nong Chok
+178.217.140.70:443::Poland::Subcarpathia::Debica
+179.43.101.150:999::Argentina::Buenos Aires::Belen de Escobar
+190.110.99.99:999::Chile::O'Higgins Region::Rancagua
+13.229.107.106:80::None::None::None
+88.255.101.230:8080::Turkey::Istanbul::Istanbul
+103.239.200.246:1337::Philippines::Central Visayas::San Juan
+118.70.12.171:53281::Vietnam::Hanoi::Hanoi
+78.38.100.121:8080::Iran::Tehran::Tehran
+95.142.223.24:56379::Italy::Veneto::Caldiero
+122.2.28.114:8080::Philippines::Metro Manila::Mandaluyong City
+128.201.138.21:3128::Brazil::Amazonas::Manaus
+189.193.254.10:999::Mexico::México::Lerma de Villada
+20.105.253.176:8080::Netherlands::North Holland::Amsterdam
+61.9.34.46:1337::Philippines::Metro Manila::San Juan
+183.88.232.207:8080::Thailand::Pathum Thani::Thanyaburi
