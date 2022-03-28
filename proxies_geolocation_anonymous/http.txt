@@ -1,6 +1,11 @@
 168.8.209.253:8080::United States::Georgia::Alpharetta
-210.245.52.58:8080::Vietnam::Hanoi::Hanoi
-190.221.33.11:999::Argentina::Buenos Aires::Piguee
-200.229.147.2:999::Honduras::Departamento de Francisco Morazan::Tegucigalpa
-85.25.201.22:5566::Germany::North Rhine-Westphalia::Bonn
-88.99.162.33:5566::United States::Washington::Seattle
+168.8.209.253:80::United States::Georgia::Alpharetta
+147.135.134.57:9300::United States::Washington::Seattle
+190.83.15.241:999::Ecuador::Provincia de Zamora-Chinchipe::Zamora
+201.219.194.176:10366::Colombia::Bogota D.C.::Bogotá
+45.181.207.129:999::Colombia::Departamento de Cordoba::Montería
+85.25.95.117:5566::Germany::Bavaria::Nuremberg
+200.24.132.204:6969::Ecuador::Provincia del Guayas::Guayaquil
+45.182.22.54:999::Honduras::Departamento de Cortes::San Pedro Sula
+41.76.216.123:8088::South Africa::Gauteng::Pretoria
+159.65.69.186:9300::United States::Washington::Seattle
