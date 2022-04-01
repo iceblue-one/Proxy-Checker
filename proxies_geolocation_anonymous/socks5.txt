@@ -1,14 +1,9 @@
-65.21.150.198:3037::Germany::Bavaria::Nuremberg
-125.141.139.112:5566::Netherlands::North Holland::Alkmaar
-64.227.53.22:9050::Sweden::Stockholm County::Stockholm
-138.197.197.200:9050::Sweden::Stockholm County::Stockholm
-159.65.106.43:9050::Germany::Bavaria::Nuremberg
-221.214.109.166:7300::China::Shandong::Jinan
-51.83.140.70:8181::Germany::North Rhine-Westphalia::Bonn
-138.68.252.165:9050::Netherlands::North Holland::Amsterdam
-118.242.27.66:7300::China::Shanghai::Xuhui
-135.181.218.111:9991::Netherlands::North Brabant::Roosendaal
-138.197.217.238:9050::Sweden::Stockholm County::Stockholm
-135.181.218.111:9080::Germany::North Rhine-Westphalia::Bonn
-138.68.18.219:9050::Sweden::Stockholm County::Stockholm
-135.181.218.111:9999::Germany::Bavaria::Nuremberg
+135.181.218.111:10438::Germany::Land Berlin::Berlin
+138.68.18.219:9050::Netherlands::North Holland::Amsterdam
+159.69.153.169:5566::Denmark::Capital Region::Graested
+138.68.57.62:9050::Sweden::Stockholm County::Stockholm
+207.188.180.35:9999::United States::Washington::Seattle
+159.65.106.43:9050::Denmark::Capital Region::Graested
+45.142.212.10:30003::Colombia::Bogota D.C.::Bogotá
+158.69.64.142:9200::United States::Washington::Seattle
+159.65.106.51:9050::Netherlands::North Holland::Amsterdam
