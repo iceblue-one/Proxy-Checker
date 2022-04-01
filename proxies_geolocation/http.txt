@@ -1,58 +1,69 @@
-205.155.45.139:3128::United States::California::Gonzales
 168.8.209.253:8080::United States::Georgia::Alpharetta
+205.155.45.139:3128::United States::California::Gonzales
+159.203.181.211:9191::United States::New Jersey::North Bergen
 103.72.77.62:3128::United States::Michigan::Detroit
 89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
+201.140.208.146:3128::Brazil::Minas Gerais::Janauba
 110.168.213.89:8080::Thailand::Bangkok::Bangkok
-39.98.230.2:8899::Hong Kong::Sai Kung District::Tseung Kwan O
-114.249.116.203:9000::China::Beijing::Beijing
-85.25.119.98:5566::Germany::North Rhine-Westphalia::Bonn
-218.80.71.27:8118::China::Shanghai::Shanghai
-195.170.38.230:8080::Russia::Moscow Oblast::Mytishchi
-81.134.57.82:3128::United Kingdom::England::Old Buckenham
-200.54.194.12:53281::Chile::Santiago Metropolitan::Providencia
-171.103.58.122:8080::Thailand::Bangkok::Bangkok
+165.16.60.1:8080::Libya::Tripoli::Tripoli
+167.172.239.13:3128::United States::New Jersey::Clifton
 120.133.231.92:8000::None::None::None
-190.103.28.250:999::Venezuela::Carabobo::Valencia
-177.136.84.164:999::Argentina::Misiones::Puerto Eldorado
-58.27.255.98:80::Pakistan::Punjab::Lahore
-188.166.213.44:8080::Singapore::None::Singapore
-93.180.221.205:8080::Iraq::Baghdad::Baghdad
-103.161.164.117:8181::Indonesia::West Java::Ciamis
-103.120.133.253:41890::Cambodia::Phnom Penh::Phnom Penh
-203.210.84.171:8181::Indonesia::West Java::Bandung
-31.128.71.241:8081::Ukraine::Kharkiv::Kharkiv
-103.9.188.229:36984::Cambodia::Phnom Penh::Phnom Penh
-181.143.235.99:12345::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-103.153.40.38:8080::Indonesia::Jakarta::Jakarta
+77.236.243.125:1256::Russia::Moscow::Moscow
+188.138.11.39:5566::Germany::North Rhine-Westphalia::Bonn
+103.152.100.155:8080::Pakistan::Punjab::Lahore
+171.103.58.122:8080::Thailand::Bangkok::Bangkok
+36.94.142.163:8000::Indonesia::East Java::Magersari
+212.42.116.161:8080::Kyrgyzstan::Gorod Bishkek::Bishkek
+187.44.1.41:8080::Brazil::Minas Gerais::Montes Claros
+190.90.242.208:999::Colombia::Departamento de Norte de Santander::Ocaña
+121.156.109.108:8080::South Korea::Gyeonggi-do::Seongnam-si
+103.139.47.250:8080::Indonesia::Jakarta::Jakarta
+188.138.90.226:5566::Germany::Land Berlin::Berlin
+181.196.241.198:9100::Ecuador::Provincia del Guayas::Isidro Ayora
+114.7.27.98:8080::Indonesia::Jakarta::Jakarta
+180.183.228.84:8080::Thailand::Khon Kaen::Ban Kho
+72.47.152.224:55443::United States::Texas::Balch Springs
+200.37.199.190:999::Peru::Piura::Piura
 136.226.24.88:9480::United States::California::San Jose
-181.129.138.114:30838::Colombia::Antioquia::Medellín
-85.25.117.171:5566::Germany::Bavaria::Nuremberg
-150.129.151.83:6666::India::Gujarat::Ahmedabad
 212.46.255.78:8080::Russia::Stavropol Kray::Stavropol
-111.90.179.74:8080::Australia::Western Australia::Marble Bar
-201.186.131.56:999::Chile::Region de la Araucania::Temuco
+85.25.132.27:5566::Germany::North Rhine-Westphalia::Bonn
+41.180.106.6:8080::South Africa::Gauteng::Halfway House
+103.149.143.2:8080::Bangladesh::Dhaka Division::Dhaka
+137.184.136.135:3128::United States::New Jersey::North Bergen
+177.69.180.171:8080::Brazil::Minas Gerais::Juiz de Fora
+103.168.44.113:8080::Indonesia::Central Java::Danaraja
+91.240.208.142:3128::United States::Nevada::Las Vegas
+85.25.117.171:5566::Germany::Lower Saxony::Broitzem
+185.17.132.15:2536::Russia::Dagestan::Makhachkala
+62.138.7.104:5566::Germany::Bavaria::Nuremberg
+95.142.223.24:56379::Italy::Veneto::Caldiero
+67.73.184.178:8081::Colombia::Bogota D.C.::Bogotá
+170.0.87.204:999::Argentina::Misiones::Andresito
 41.84.143.227:8081::Kenya::Nairobi Province::Thika
-187.115.10.50:20183::Brazil::Pernambuco::Recife
-41.111.204.186:8080::Algeria::Béjaïa::Akbou
-2.184.4.70:6565::Iran::Kerman::Shahrak-e Pābedānā
-85.25.119.113:5566::Germany::Bavaria::Nuremberg
-36.37.160.242:8080::Cambodia::Prey Veng::Prey Veng
-182.16.163.202:3128::Indonesia::Jakarta::Jakarta
-85.25.208.212:5566::Germany::Bavaria::Nuremberg
-194.233.73.108:443::Singapore::None::Singapore
-188.138.90.226:5566::Germany::Bavaria::Nuremberg
-50.246.120.125:8080::United States::District of Columbia::Washington
-159.192.147.186:8080::Thailand::Bangkok::Samphanthawong
-161.22.34.100:999::Venezuela::Mérida::Mérida
-188.138.106.133:5566::Germany::Bavaria::Nuremberg
-87.249.9.193:8082::Russia::Moscow::Moscow
-45.167.95.184:8085::Mexico::Querétaro::Querétaro
-190.24.119.55:999::Colombia::Bogota D.C.::Bogotá
-187.109.40.9:20183::Brazil::Sao Paulo::São Paulo
-197.232.82.243:41890::Kenya::Nairobi Province::Nairobi
-192.158.15.201:60684::Canada::Ontario::Toronto
-85.25.91.161:5566::Germany::Bavaria::Nuremberg
-13.229.107.106:80::None::None::None
-192.119.203.124:48678::United States::California::Ridgecrest
-212.92.204.54:8080::Croatia::City of Zagreb::Zagreb
-183.88.210.77:8080::Thailand::Yala::Yala
+173.249.57.9:443::Germany::Bavaria::Nuremberg
+8.242.207.164:999::Chile::Santiago Metropolitan::Santiago
+185.141.10.227:34082::Iraq::Muhafazat Babil::Al Hāshimīyah
+131.72.69.14:8080::Brazil::Sergipe::Aracaju
+144.217.7.157:5566::Switzerland::Zurich::Zurich
+1.20.217.52:8080::Thailand::Loei::Dan Sai
+190.90.83.225:999::Colombia::Departamento de Norte de Santander::Cúcuta
+195.175.89.198:8080::Turkey::Antalya::Antalya
+170.79.12.72:9090::Brazil::Piaui::Teresina
+95.189.104.181:41890::Russia::Transbaikal Territory::Chita
+185.182.222.178:8080::Iran::Tehran::Tehran
+83.12.128.42:8080::Poland::Łódź Voivodeship::Piotrkow Trybunalski
+200.111.182.6:443::Chile::Santiago Metropolitan::Las Condes
+41.254.53.70:1981::Libya::Sha'biyat Banghazi::Benghazi
+147.135.134.57:5566::Sweden::Stockholm County::Lidingoe
+188.138.106.158:5566::Germany::North Rhine-Westphalia::Bonn
+89.208.35.81:3128::Russia::Moscow::Moscow
+150.129.151.83:6666::India::Gujarat::Ahmedabad
+103.134.98.33:81::India::Telangana::Hyderabad
+45.236.152.45:6666::Brazil::Bahia::Porto Seguro
+188.133.158.145:8080::Russia::Moscow::Moscow
+212.175.118.173:8080::Turkey::Istanbul::Istanbul
+125.25.45.11:8080::Thailand::Bangkok::Bangkok
+138.185.190.46:8080::Brazil::Piaui::Jaicos
+176.98.22.224:8181::Ukraine::Cherkasy Oblast::Mankivka
+201.249.161.51:999::Venezuela::Carabobo::Valencia
+197.211.35.194:8080::Nigeria::Lagos::Lagos
