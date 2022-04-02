@@ -1,7 +1,3 @@
-20.210.35.124:1080::Japan::Tokyo::Tokyo
-185.154.72.177:41080::Russia::Rostov Oblast::Rostov-on-Don
-64.227.53.22:9050::Netherlands::North Holland::Amsterdam
-159.69.153.169:5566::United States::Washington::Seattle
-158.69.64.142:9200::Germany::Bavaria::Nuremberg
-125.141.139.198:5566::United States::Washington::Seattle
-138.68.51.109:9050::Belgium::Brussels Capital::Brussels
+138.68.18.219:9050::Germany::Bavaria::Nuremberg
+64.227.53.22:9050::Germany::Bavaria::Nuremberg
+138.197.197.200:9050::Netherlands::North Holland::Amsterdam
