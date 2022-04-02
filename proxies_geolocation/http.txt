@@ -1,63 +1,60 @@
-168.8.209.253:80::United States::Georgia::Alpharetta
-54.237.111.226:3128::United States::Virginia::Ashburn
-205.155.45.139:3128::United States::California::Gonzales
-199.241.139.96:3128::United States::California::Los Angeles
 168.8.209.253:8080::United States::Georgia::Alpharetta
 41.65.36.167:1981::Egypt::Giza::Awsim
-51.79.50.31:9300::Switzerland::Zurich::Zurich
+165.16.60.1:8080::Libya::Tripoli::Tripoli
+205.155.45.139:3128::United States::California::Gonzales
+167.172.239.13:3128::United States::New Jersey::Clifton
 89.250.152.76:8080::Russia::Tyumen’ Oblast::Tyumen
-43.134.189.122:8888::Singapore::Central Singapore::Singapore
-113.195.32.26:9001::China::Jiangxi::Nanchang
+168.8.209.253:80::United States::Georgia::Alpharetta
+160.251.14.122:3129::Japan::Tokyo::Chiyoda
+62.138.7.104:5566::Germany::North Rhine-Westphalia::Bonn
+103.72.77.62:3128::United States::Michigan::Detroit
 171.103.58.122:8080::Thailand::Bangkok::Bangkok
-93.185.123.154:3128::Italy::Veneto::Pove del Grappa
-190.214.27.46:8080::Ecuador::Provincia del Azuay::Cuenca
-61.216.156.222:60808::Taiwan::New Taipei::New Taipei
-58.27.255.98:80::Pakistan::Punjab::Lahore
-85.25.198.20:5566::Germany::North Rhine-Westphalia::Bonn
-181.198.86.74:999::Ecuador::Provincia del Guayas::General Villamil
-103.125.56.15:3127::Indonesia::West Java::Bekasi
-190.221.33.11:999::Argentina::Buenos Aires::Piguee
-122.102.43.50:8080::Indonesia::Jakarta::Jakarta
-182.253.107.212:8080::Indonesia::West Java::Tegal
-134.209.148.107:8081::India::Karnataka::Bengaluru
-85.25.132.27:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.195.177:5566::Germany::Bavaria::Nuremberg
-45.189.112.225:999::Ecuador::Provincia del Guayas::Daule
-62.141.90.254:8080::Russia::Moscow::Moscow
-181.10.160.156:8080::Argentina::Cordoba::La Carlota
-200.114.79.27:999::United States::Texas::Dallas
-45.229.162.146:55443::Brazil::Alagoas::Maragogi
-188.138.11.48:5566::Germany::Bavaria::Nuremberg
-85.25.208.198:5566::Germany::Bavaria::Nuremberg
-103.160.201.192:8080::Indonesia::Jakarta::Cipinang
-187.44.1.41:8080::Brazil::Minas Gerais::Montes Claros
-105.112.135.162:8080::Nigeria::Lagos::Lagos
-85.25.132.9:5566::Germany::North Rhine-Westphalia::Bonn
-197.221.158.186:8080::Uganda::Central Region::Kampala
-103.206.168.202:8083::Indonesia::Jakarta::Jakarta
-185.182.222.178:8080::Iran::Tehran::Tehran
-103.125.50.102:10001::Indonesia::Banten::Tangerang
-200.6.254.254:999::Guatemala::Departamento de Guatemala::Guatemala City
-190.108.200.176:8080::Guyana::Demerara-Mahaica Region::Georgetown
-120.72.20.225:8080::Philippines::Davao::Magugpo Poblacion
-69.43.44.106:8080::United States::West Virginia::Morgantown
-103.81.77.194:83::India::Andhra Pradesh::Tanuku
+181.78.15.105:999::Colombia::Antioquia::Medellín
 203.150.128.41:8080::Thailand::Bangkok::Watthana
-213.33.152.178:41890::Russia::Moscow::Moscow
-152.231.25.58:8080::Colombia::Departamento del Valle del Cauca::Santiago de Cali
-138.117.230.140:999::Guatemala::Departamento de Huehuetenango::Huehuetenango
-103.156.145.49:83::India::Gujarat::Gandhinagar
-13.229.107.106:80::None::None::None
-62.75.229.51:5566::Germany::North Rhine-Westphalia::Bonn
-200.25.254.193:54240::Colombia::Antioquia::Medellín
-62.75.236.132:5566::Germany::North Rhine-Westphalia::Bonn
-88.255.102.176:8081::Turkey::Istanbul::Istanbul
-180.210.184.226:8080::Bangladesh::Dhaka Division::Dhaka
-77.236.252.187:1256::Russia::Moscow::Moscow
-200.229.229.197:8080::Brazil::Sao Paulo::Guarulhos
-52.236.90.60:3128::Ireland::Leinster::Dublin
-41.162.22.4:10046::South Africa::KwaZulu-Natal::Bluff
-123.56.217.206:22::China::Beijing::Beijing
-188.246.186.142:41890::Russia::Moscow::Moscow
-47.100.23.223:8080::China::Shanghai::Shanghai
-85.25.72.91:5566::Germany::Bavaria::Nuremberg
+85.25.108.234:5566::Germany::North Rhine-Westphalia::Bonn
+89.171.41.90:6969::Poland::Mazovia::Warsaw
+181.49.217.254:8080::Colombia::Antioquia::Medellín
+103.81.77.194:83::India::Andhra Pradesh::Tanuku
+103.134.97.97:83::India::Andhra Pradesh::Tirupati
+190.120.250.218:999::Venezuela::Carabobo::Valencia
+218.80.71.27:8118::China::Shanghai::Shanghai
+62.138.3.125:5566::Germany::Bavaria::Nuremberg
+221.217.50.129:9000::China::Beijing::Xicheng District
+36.66.124.193:3128::Indonesia::Banten::Tangerang
+103.144.165.86:8080::Bangladesh::Dhaka Division::Dhaka
+89.216.52.195:8080::Serbia::Belgrade::Lazarevac
+62.75.219.49:5566::Germany::North Rhine-Westphalia::Bonn
+134.209.148.107:8081::India::Karnataka::Bengaluru
+187.1.57.206:20183::Brazil::Minas Gerais::Belo Horizonte
+103.83.178.166:8181::Indonesia::Banten::Tangerang
+187.44.1.41:8080::Brazil::Minas Gerais::Montes Claros
+80.244.226.92:8080::Russia::Moscow::Moscow
+180.180.218.250:8080::Thailand::Bangkok::Khlong Sam Wa
+180.211.193.130:3127::Bangladesh::Barisal Division::Barishal
+65.21.111.230:5566::United States::Washington::Seattle
+111.90.179.74:8080::Australia::Western Australia::Perth
+197.221.158.186:8080::Uganda::Central Region::Kampala
+195.178.33.86:8080::Serbia::Belgrade::Belgrade
+103.109.2.79:8080::Indonesia::South Sulawesi::Sinrijala
+83.239.18.34:3128::Russia::Krasnodarskiy Kray::Krasnodar
+105.112.83.165:8080::Nigeria::Lagos::Lagos
+202.180.21.107:8080::Indonesia::West Java::Bandung
+188.138.106.143:5566::Germany::Bavaria::Nuremberg
+178.212.196.177:9999::Ukraine::Odessa::Odessa
+196.20.12.13:8080::Namibia::Khomas::Windhoek
+31.204.180.44:53281::Russia::Novgorod Oblast::Veliky Novgorod
+89.248.174.40:8118::Netherlands::North Holland::Amsterdam
+41.77.7.234:3129::Zambia::Copperbelt::Kalulushi
+188.133.139.219:1256::Russia::Moscow::Moscow
+103.145.176.206:80::Indonesia::West Java::Gandul
+62.75.229.155:5566::Germany::Bavaria::Nuremberg
+190.52.129.39:8080::Paraguay::Departamento de Misiones::Villa Florida
+62.75.229.165:5566::Germany::Bavaria::Nuremberg
+45.169.163.225:999::Chile::Santiago Metropolitan::Melipilla
+200.88.112.252:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+89.205.39.195:8080::North Macedonia::Grad Skopje::Skopje
+181.198.194.23:3127::Ecuador::Provincia del Guayas::Guayaquil
+175.101.14.121:83::India::Telangana::Hyderabad
+212.19.7.246:3128::Russia::Khabarovsk::Khabarovsk
+85.25.208.212:5566::Germany::Land Berlin::Berlin
+23.132.48.1:999::United States::New Jersey::Morristown
