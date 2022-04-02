@@ -1,14 +1,19 @@
-168.8.209.253:80::United States::Georgia::Alpharetta
-205.155.45.139:3128::United States::California::Gonzales
 168.8.209.253:8080::United States::Georgia::Alpharetta
+205.155.45.139:3128::United States::California::Gonzales
+168.8.209.253:80::United States::Georgia::Alpharetta
+144.217.7.157:9300::Germany::North Rhine-Westphalia::Bonn
 119.4.167.141:80::China::Sichuan::Chengdu
-190.110.99.99:999::Chile::O'Higgins Region::Rancagua
-62.75.229.165:5566::Germany::North Rhine-Westphalia::Bonn
-62.138.7.104:5566::Germany::Land Berlin::Berlin
-178.252.175.5:8080::Iran::Tehran::Tehran
-197.211.45.4:10000::United Kingdom::England::London
-202.29.237.211:3128::Thailand::Bangkok::Bangkok
-88.255.12.19:8080::Turkey::Istanbul::Istanbul
-103.147.43.255:8080::Pakistan::Punjab::Lahore
-190.221.33.10:999::Argentina::Buenos Aires::Piguee
-85.25.4.27:5566::Germany::North Rhine-Westphalia::Bonn
+188.138.106.133:5566::Germany::Bavaria::Nuremberg
+221.145.101.63:4001::South Korea::Seoul::Seoul
+202.29.237.212:3128::Thailand::Bangkok::Bangkok
+62.138.7.104:5566::Germany::Bavaria::Nuremberg
+62.138.3.125:5566::Germany::Bavaria::Nuremberg
+85.25.199.50:5566::United States::Washington::Seattle
+85.25.208.198:5566::Germany::North Rhine-Westphalia::Bonn
+200.48.3.226:10101::Peru::Lima::Lima
+190.217.7.73:999::Venezuela::Distrito Federal::Caracas
+85.25.118.155:5566::Germany::Bavaria::Nuremberg
+102.68.128.218:8080::Libya::Tripoli::Tripoli
+103.130.70.201:83::India::West Bengal::Siliguri
+85.25.4.28:5566::Germany::North Rhine-Westphalia::Bonn
+188.138.90.226:5566::Germany::Baden-Württemberg::Karlsruhe
