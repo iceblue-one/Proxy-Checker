@@ -1,55 +1,60 @@
-67.201.33.9:25280::United States::California::Buena Park
-192.252.220.92:17328::United States::California::Los Angeles
-72.195.34.58:4145::United States::Louisiana::Baton Rouge
-184.178.172.5:15303::United States::Oklahoma::Choctaw
-174.77.111.196:4145::United States::Oklahoma::Oklahoma City
-174.75.211.222:4145::United States::Oklahoma::Oklahoma City
-72.195.34.59:4145::United States::Louisiana::Baton Rouge
-98.162.96.52:4145::United States::Oklahoma::Oklahoma City
-184.181.217.210:4145::United States::Oklahoma::Oklahoma City
-72.206.181.123:4145::United States::Louisiana::Baton Rouge
-72.195.114.169:4145::United States::Louisiana::Monroe
-184.178.172.18:15280::United States::Oklahoma::Choctaw
-54.37.232.254:63436::Poland::Lower Silesia::Wroclaw
-98.188.47.150:4145::United States::Oklahoma::Oklahoma City
-98.170.57.231:4145::United States::Oklahoma::Oklahoma City
-98.188.47.132:4145::United States::Oklahoma::Oklahoma City
-174.64.199.82:4145::United States::Oklahoma::Oklahoma City
-49.12.224.173:14120::United States::Virginia::Ashburn
-24.249.199.4:4145::United States::Florida::Pensacola
-174.77.111.197:4145::United States::Oklahoma::Oklahoma City
-174.64.199.79:4145::United States::Oklahoma::Oklahoma City
-72.195.34.41:4145::United States::Louisiana::Baton Rouge
-98.162.96.41:4145::United States::Oklahoma::Oklahoma City
-152.67.79.92:1080::Switzerland::Zurich::Zurich
-184.178.172.14:4145::United States::Oklahoma::Choctaw
-45.82.136.227:1080::Iran::Tehran::Tehran
-117.185.45.186:7302::China::Shanghai::Shanghai
-98.175.31.195:4145::United States::Virginia::Norfolk
-24.249.199.12:4145::United States::Florida::Pensacola
-72.210.208.101:4145::United States::Louisiana::Monroe
-72.217.216.239:4145::United States::Arizona::Phoenix
-72.195.114.184:4145::United States::Louisiana::Monroe
-98.162.25.23:4145::United States::Oklahoma::Oklahoma City
-61.135.155.82:1080::China::Beijing::Xicheng District
-104.248.4.231:1080::United States::New Jersey::Clifton
-72.195.34.42:4145::United States::Louisiana::Baton Rouge
-1.180.49.222:7302::China::Inner Mongolia Autonomous Region::Bieligutai
-185.86.5.162:8975::Turkey::Istanbul::Istanbul
-185.200.38.206:10820::Turkey::Hatay::Antakya
-218.64.122.99:7302::China::Jiangxi::Nanchang Shi
-138.68.57.62:9050::Sweden::Stockholm County::Stockholm
-27.116.51.119:6667::India::Gujarat::Vadodara
-20.210.35.124:1080::Japan::Tokyo::Tokyo
-91.134.139.238:3080::France::Hauts-de-France::Gravelines
 67.201.33.10:25283::United States::California::Buena Park
-218.249.73.146:7302::China::Beijing::Beijing
-60.165.35.64:7302::China::Gansu::Lanzhou
-103.242.51.10:63322::Afghanistan::Kabul::Kabul
+67.201.33.9:25280::United States::California::Buena Park
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+72.195.34.41:4145::United States::Louisiana::Baton Rouge
+72.210.208.101:4145::United States::Louisiana::Monroe
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
+72.210.252.137:4145::United States::Louisiana::Monroe
+98.188.47.150:4145::United States::Oklahoma::Oklahoma City
+72.195.34.42:4145::United States::Louisiana::Baton Rouge
+72.217.216.239:4145::United States::Arizona::Phoenix
+98.175.31.195:4145::United States::Virginia::Norfolk
+72.195.34.58:4145::United States::Louisiana::Baton Rouge
+136.228.131.236:33427::Cambodia::Phnom Penh::Phnom Penh
+174.77.111.197:4145::United States::Oklahoma::Oklahoma City
+184.178.172.14:4145::United States::Oklahoma::Choctaw
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+72.221.172.203:4145::United States::Louisiana::Monroe
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+20.210.35.124:1080::Japan::Tokyo::Tokyo
+174.75.211.222:4145::United States::Oklahoma::Oklahoma City
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+60.248.77.66:3000::Taiwan::New Taipei::New Taipei
+89.201.4.136:33427::Latvia::Riga::Riga
+43.129.243.128:3001::Hong Kong::Central and Western District::Hong Kong
+113.108.247.146:20086::China::Guangdong::Guangzhou
+222.88.201.188:7302::China::Henan::Kaifeng
+45.82.136.227:1080::Iran::Tehran::Tehran
+24.249.199.12:4145::United States::Florida::Pensacola
+72.195.114.184:4145::United States::Louisiana::Monroe
+72.206.181.123:4145::United States::Louisiana::Baton Rouge
+72.195.34.59:4145::United States::Louisiana::Baton Rouge
+24.249.199.4:4145::United States::Florida::Pensacola
+103.120.133.178:33427::Cambodia::Phnom Penh::Phnom Penh
+98.188.47.132:4145::United States::Oklahoma::Oklahoma City
+184.181.217.210:4145::United States::Oklahoma::Oklahoma City
+223.82.106.156:7302::China::Guangdong::Shenzhen
+72.195.114.169:4145::United States::Louisiana::Monroe
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+143.248.55.62:5566::Sweden::Stockholm County::Stockholm
+116.212.152.95:33427::Cambodia::Phnom Penh::Phnom Penh
+61.142.70.130:7300::China::Guangdong::Foshan
+159.65.106.46:9050::France::Bourgogne-Franche-Comté::Bavilliers
+138.68.252.165:9050::Singapore::Central Singapore::Singapore
+221.214.109.166:7302::China::Shandong::Jinan
+103.240.168.138:6667::India::Gujarat::Ahmedabad
+60.215.109.34:7302::China::Shandong::Laiwu
+125.141.139.110:5566::Germany::Bavaria::Nuremberg
+62.113.115.94:16072::Russia::Moscow::Moscow
+159.69.153.169:5566::Germany::North Rhine-Westphalia::Bonn
+178.238.25.174:1337::Russia::St.-Petersburg::St Petersburg
+138.68.18.219:9050::Iceland::Capital Region::Reykjavik
 147.135.112.67:3081::United States::Virginia::Reston
-165.154.75.108:3512::Hong Kong::Central and Western District::Central
-111.33.92.16:7302::China::Tianjin::Tianjin
-51.79.52.80:3080::Canada::Quebec::Beauharnois
-5.161.44.150:30728::United States::District of Columbia::Washington
-51.83.140.70:8181::Romania::Bucharest::Bucharest
-43.224.8.116:6667::India::Gujarat::Surendranagar
+223.68.180.94:7302::Hong Kong::Central and Western District::Hong Kong
+43.224.10.42:6667::India::Gujarat::Surat
+111.40.119.33:1111::China::Heilongjiang::Harbin
+125.141.139.198:5566::Bulgaria::Sofia-Capital::Sofia
+144.202.117.30:55036::United States::California::Los Angeles
+51.83.140.70:8181::Italy::Molise::Venafro
+104.248.4.231:1080::United States::New Jersey::Clifton
