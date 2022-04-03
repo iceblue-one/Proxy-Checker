@@ -1,48 +1,59 @@
-184.178.172.14:4145::United States::Oklahoma::Choctaw
-72.206.181.103:4145::United States::Louisiana::Baton Rouge
-72.206.181.123:4145::United States::Louisiana::Baton Rouge
-72.221.172.203:4145::United States::Louisiana::Monroe
 72.217.216.239:4145::United States::Arizona::Phoenix
-184.181.217.210:4145::United States::Oklahoma::Oklahoma City
-72.221.232.155:4145::United States::Oklahoma::Oklahoma City
 98.162.25.23:4145::United States::Oklahoma::Oklahoma City
-109.72.231.37:1080::Russia::Moscow Oblast::Romashkovo
-174.75.211.222:4145::United States::Oklahoma::Oklahoma City
-72.210.252.137:4145::United States::Louisiana::Monroe
-174.77.111.196:4145::United States::Oklahoma::Oklahoma City
-24.249.199.4:4145::United States::Florida::Pensacola
-174.77.111.197:4145::United States::Oklahoma::Oklahoma City
-174.64.199.79:4145::United States::Oklahoma::Oklahoma City
-98.188.47.132:4145::United States::Oklahoma::Oklahoma City
-60.215.109.34:7302::China::Shandong::Laiwu
-98.175.31.195:4145::United States::Virginia::Norfolk
-98.162.96.52:4145::United States::Oklahoma::Oklahoma City
-98.170.57.231:4145::United States::Oklahoma::Oklahoma City
-72.195.114.169:4145::United States::Louisiana::Monroe
-72.195.34.42:4145::United States::Louisiana::Baton Rouge
-174.64.199.82:4145::United States::Oklahoma::Oklahoma City
-72.195.114.184:4145::United States::Louisiana::Monroe
-188.165.254.122:9420::France::Île-de-France::Paris
-98.188.47.150:4145::United States::Oklahoma::Oklahoma City
-72.195.34.59:4145::United States::Louisiana::Baton Rouge
-98.162.96.41:4145::United States::Oklahoma::Oklahoma City
-72.195.34.41:4145::United States::Louisiana::Baton Rouge
-24.249.199.12:4145::United States::Florida::Pensacola
-72.210.208.101:4145::United States::Louisiana::Monroe
-113.108.247.146:20086::China::Guangdong::Guangzhou
-51.222.12.245:10084::Canada::Quebec::Beauharnois
-193.169.4.184:10801::Russia::Moscow Oblast::Reutov
-185.200.38.235:10820::Turkey::Antalya::Antalya
-58.57.32.98:7302::China::Shandong::Xintai
 72.195.34.58:4145::United States::Louisiana::Baton Rouge
-111.33.92.16:7302::China::Tianjin::Tianjin
-138.68.252.165:9050::Sweden::Stockholm County::Stockholm
-23.234.213.157:6666::United States::California::Santa Clarita
-60.12.77.43:7300::China::Zhejiang::Hangzhou
-58.217.115.142:7302::China::Jiangsu::Nanjing
-67.201.33.10:25283::United States::California::Buena Park
-43.129.243.128:3001::Hong Kong::Central and Western District::Hong Kong
-1.180.49.222:7302::China::Inner Mongolia Autonomous Region::Bieligutai
-45.55.182.183:1080::United States::New Jersey::Clifton
-138.68.57.62:9050::Sweden::Stockholm County::Stockholm
-137.184.18.199:11500::United States::New Jersey::North Bergen
+184.181.217.210:4145::United States::Oklahoma::Oklahoma City
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+72.206.181.103:4145::United States::Louisiana::Baton Rouge
+72.210.252.137:4145::United States::Louisiana::Monroe
+174.77.111.197:4145::United States::Oklahoma::Oklahoma City
+72.206.181.123:4145::United States::Louisiana::Baton Rouge
+72.195.114.184:4145::United States::Louisiana::Monroe
+98.188.47.132:4145::United States::Oklahoma::Oklahoma City
+72.195.34.42:4145::United States::Louisiana::Baton Rouge
+72.221.172.203:4145::United States::Louisiana::Monroe
+174.75.211.222:4145::United States::Oklahoma::Oklahoma City
+98.188.47.150:4145::United States::Oklahoma::Oklahoma City
+192.252.220.92:17328::United States::California::Los Angeles
+203.176.139.14:33427::Cambodia::Phnom Penh::Phnom Penh
+184.178.172.28:15294::United States::Oklahoma::Choctaw
+184.178.172.14:4145::United States::Oklahoma::Choctaw
+103.80.118.242:51080::India::Bihar::Araria
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+129.146.216.187:20000::United States::Arizona::Phoenix
+72.210.208.101:4145::United States::Louisiana::Monroe
+184.178.172.18:15280::United States::Oklahoma::Choctaw
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
+68.71.249.153:48606::United States::California::Los Angeles
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+218.249.73.146:7302::China::Beijing::Beijing
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+98.175.31.195:4145::United States::Virginia::Norfolk
+103.240.168.138:6667::India::Gujarat::Ahmedabad
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+96.9.71.18:33427::Cambodia::Phnom Penh::Phnom Penh
+67.201.33.9:25280::United States::California::Buena Park
+72.195.34.59:4145::United States::Louisiana::Baton Rouge
+60.12.215.23:7302::China::Zhejiang::Ningbo
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+72.195.114.169:4145::United States::Louisiana::Monroe
+203.217.169.85:33427::Cambodia::Phnom Penh::Phnom Penh
+24.249.199.4:4145::United States::Florida::Pensacola
+170.130.142.180:41080::United States::Texas::Dallas
+123.31.12.41:17166::Vietnam::Hanoi::Hanoi
+118.242.27.66:7300::China::Shanghai::Xuhui
+138.68.57.62:9050::Denmark::Capital Region::Graested
+116.105.217.162:1080::Vietnam::Tinh Quang Nam::Dien Ban
+60.248.77.66:3000::Taiwan::New Taipei::New Taipei
+106.75.169.151:10801::None::None::None
+64.227.53.22:9050::Sweden::Stockholm County::Stockholm
+116.212.152.95:33427::Cambodia::Phnom Penh::Phnom Penh
+36.89.86.49:56845::Indonesia::Jakarta::Jakarta
+178.33.13.227:48354::France::Auvergne-Rhone-Alpes::Bourg-les-Valence
+72.195.34.41:4145::United States::Louisiana::Baton Rouge
+43.154.143.161:9090::Hong Kong::Central and Western District::Hong Kong
+158.69.64.142:9200::United States::Washington::Seattle
+207.188.180.35:9999::United States::Washington::Seattle
+144.202.117.30:55036::United States::California::Los Angeles
+208.113.152.62:62851::United States::California::Brea
+212.32.253.199:40000::United States::California::Sacramento
+51.83.140.70:8181::United States::Washington::Seattle
