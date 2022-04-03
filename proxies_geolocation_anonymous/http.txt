@@ -1,24 +1,28 @@
-168.8.209.253:8080::United States::Georgia::Alpharetta
-205.155.45.139:3128::United States::California::Gonzales
 168.8.209.253:80::United States::Georgia::Alpharetta
+205.155.45.139:3128::United States::California::Gonzales
+168.8.209.253:8080::United States::Georgia::Alpharetta
 114.249.116.203:9000::China::Beijing::Beijing
-159.192.253.54:8080::Thailand::Bangkok::Khlong Toei
-177.185.32.1:8080::Brazil::Sao Paulo::Santa Albertina
-121.101.133.73:8080::Indonesia::Central Java::Semarang
-103.159.47.9:84::India::Gujarat::Ahmedabad
-200.73.35.180:999::Chile::O'Higgins Region::Placilla
-85.25.117.171:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.155.103:5566::Germany::Baden-Württemberg::Karlsruhe
-91.93.118.3:8090::Turkey::Ankara::Ankara
-111.68.26.237:8080::Indonesia::Yogyakarta::Yogyakarta
-85.25.226.133:5566::Germany::Bavaria::Nuremberg
-179.61.229.162:999::Dominican Republic::Provincia de Santiago::Santiago de los Caballeros
-62.138.7.104:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.119.241:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.118.155:5566::Germany::Bavaria::Nuremberg
-38.91.107.116:8080::United States::Florida::Miami
-190.119.195.34:8080::Peru::Lima region::La Victoria
-190.90.242.208:999::Colombia::Departamento de Norte de Santander::Ocaña
-188.138.106.143:5566::Germany::Land Berlin::Berlin
-120.232.194.134:8998::Hong Kong::Central and Western District::Central
-177.93.50.5:999::Colombia::Bogota D.C.::Bogotá
+185.182.222.178:8080::Iran::Khuzestan::Ahvaz
+122.225.75.10:8081::China::Zhejiang::Hangzhou
+47.103.201.22:8118::Japan::Tokyo::Tokyo
+190.110.99.101:999::Chile::O'Higgins Region::Rancagua
+200.114.84.76:8080::Argentina::Buenos Aires::La Plata
+103.35.132.189:83::India::Maharashtra::Pune
+103.206.128.1:7532::India::National Capital Territory of Delhi::Delhi
+85.25.4.28:5566::Germany::North Rhine-Westphalia::Bonn
+64.210.67.19:999::Venezuela::Distrito Federal::Caracas
+190.131.250.105:999::Colombia::Bogota D.C.::Bogotá
+181.49.36.124:999::Colombia::Bogota D.C.::Bogotá
+216.176.187.99:8889::United States::California::Los Angeles
+191.102.74.113:8080::Colombia::Bogota D.C.::Bogotá
+85.25.196.218:5566::Germany::Bavaria::Nuremberg
+186.250.162.161:8080::Brazil::Rio Grande do Norte::Natal
+85.25.117.134:5566::Germany::Bavaria::Nuremberg
+144.217.7.157:5566::France::Brittany::Megrit
+134.209.42.113:8889::Sweden::Stockholm County::Stockholm
+202.53.171.114:8080::Bangladesh::Rajshahi Division::Pabna Sadar
+85.25.108.234:5566::Germany::Bavaria::Nuremberg
+213.32.75.44:5566::Luxembourg::Mersch::Roost
+177.93.50.146:999::Colombia::Cundinamarca::Chia
+85.25.133.28:5566::Germany::North Rhine-Westphalia::Bonn
+37.252.73.193:8080::Armenia::Yerevan::Yerevan
