@@ -1,24 +1,28 @@
 168.8.209.253:8080::United States::Georgia::Alpharetta
 205.155.45.139:3128::United States::California::Gonzales
-200.6.254.254:999::Guatemala::Departamento de Guatemala::Guatemala City
-45.182.22.54:999::Honduras::Departamento de Cortes::San Pedro Sula
-119.4.167.141:80::China::Sichuan::Chengdu
-39.106.228.34:8082::China::Beijing::Beijing
-186.103.130.94:8080::Chile::Santiago Metropolitan::Santiago
-190.85.27.162:999::Colombia::Bogota D.C.::Bogotá
-185.82.99.150:9091::Lebanon::Mohafazat Liban-Nord::Tripoli
-114.5.199.198:8182::Indonesia::West Java::Bandung
-170.0.85.210:999::Argentina::Misiones::Andresito
-85.25.4.27:5566::Germany::North Rhine-Westphalia::Bonn
-85.25.133.28:5566::Germany::Bavaria::Nuremberg
-85.25.199.122:5566::Germany::Bavaria::Nuremberg
-85.25.235.82:5566::Germany::Bavaria::Nuremberg
-85.25.4.28:5566::Germany::Land Berlin::Berlin
-85.25.246.206:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.91.155:5566::Germany::Land Berlin::Berlin
+85.25.226.133:5566::Germany::North Rhine-Westphalia::Bonn
+85.25.226.242:5566::Germany::Bavaria::Nuremberg
+46.209.206.21:3128::Iran::Tehran::Tehran
+89.216.52.195:8080::Serbia::Belgrade::Lazarevac
+85.25.150.32:5566::Germany::North Rhine-Westphalia::Bonn
+190.83.15.241:999::Ecuador::Provincia de Zamora-Chinchipe::Zamora
+188.138.90.226:5566::Austria::Vienna::Vienna
+85.25.133.28:5566::Germany::North Rhine-Westphalia::Düsseldorf
 188.138.11.39:5566::Germany::North Rhine-Westphalia::Bonn
-45.70.15.3:8080::Ecuador::Provincia del Guayas::Guayaquil
-201.219.194.187:8083::Colombia::Bogota D.C.::Bogotá
-85.25.242.142:5566::Germany::Bavaria::Nuremberg
-185.32.6.129:8090::Poland::West Pomerania::Szczecin
-197.157.219.169:48625::Nigeria::Lagos::Lagos
-181.209.105.157:8080::Argentina::Buenos Aires::Benavidez
+85.25.91.161:5566::Germany::Bavaria::Nuremberg
+62.75.229.165:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+185.182.222.178:8080::Iran::Tehran::Tehran
+151.22.181.213:8080::Italy::Lombardy::Rho
+85.25.119.98:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+200.37.187.210:999::Peru::Lima::Lima
+85.25.4.28:5566::Germany::Bavaria::Nuremberg
+85.25.117.171:5566::Germany::Free and Hanseatic City of Hamburg::Hamburg
+85.25.155.103:5566::Germany::Bavaria::Nuremberg
+43.243.174.56:83::India::Maharashtra::Pune
+39.106.228.34:8082::China::Beijing::Beijing
+185.82.96.210:9091::Lebanon::Mohafazat Liban-Nord::Zghartā
+43.241.29.201:8080::India::Maharashtra::Mumbai
+190.128.231.146:8080::Paraguay::Asuncion::Asunción
+186.24.62.193:999::Venezuela::Anzoátegui::Barcelona
+45.7.135.233:999::Colombia::Bogota D.C.::Bogotá
