@@ -1,61 +1,60 @@
-43.251.116.65:8888::United States::California::Los Angeles
-51.195.102.121:10084::Germany::Hesse::Limburg an der Lahn
-72.210.252.137:4145::United States::Louisiana::Monroe
-72.206.181.103:4145::United States::Louisiana::Baton Rouge
-184.178.172.14:4145::United States::Oklahoma::Choctaw
-72.221.172.203:4145::United States::Louisiana::Monroe
-174.64.199.79:4145::United States::Oklahoma::Oklahoma City
-72.221.232.155:4145::United States::Oklahoma::Oklahoma City
-174.64.199.82:4145::United States::Oklahoma::Oklahoma City
-98.162.96.41:4145::United States::Oklahoma::Oklahoma City
-98.188.47.150:4145::United States::Oklahoma::Oklahoma City
+192.252.220.92:17328::United States::California::Los Angeles
 72.217.216.239:4145::United States::Arizona::Phoenix
+72.221.172.203:4145::United States::Louisiana::Monroe
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+72.195.34.58:4145::United States::Louisiana::Baton Rouge
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+174.77.111.197:4145::United States::Oklahoma::Oklahoma City
+72.206.181.103:4145::United States::Louisiana::Baton Rouge
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
 98.162.25.23:4145::United States::Oklahoma::Oklahoma City
-184.181.217.210:4145::United States::Oklahoma::Oklahoma City
-72.195.34.59:4145::United States::Louisiana::Baton Rouge
-98.188.47.132:4145::United States::Oklahoma::Oklahoma City
-72.195.34.42:4145::United States::Louisiana::Baton Rouge
-184.178.172.5:15303::United States::Oklahoma::Choctaw
 72.195.114.184:4145::United States::Louisiana::Monroe
+98.175.31.195:4145::United States::Virginia::Norfolk
+72.195.114.169:4145::United States::Louisiana::Monroe
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+174.75.211.222:4145::United States::Oklahoma::Oklahoma City
+93.179.94.133:5678::Russia::Moscow::Moscow
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+31.211.131.136:33427::Bulgaria::Pleven::Levski
+184.178.172.14:4145::United States::Oklahoma::Choctaw
+98.188.47.150:4145::United States::Oklahoma::Oklahoma City
+184.178.172.5:15303::United States::Oklahoma::Choctaw
+24.249.199.4:4145::United States::Florida::Pensacola
+98.188.47.132:4145::United States::Oklahoma::Oklahoma City
+184.178.172.28:15294::United States::Oklahoma::Choctaw
 72.210.208.101:4145::United States::Louisiana::Monroe
 72.206.181.123:4145::United States::Louisiana::Baton Rouge
+72.195.34.59:4145::United States::Louisiana::Baton Rouge
+184.181.217.210:4145::United States::Oklahoma::Oklahoma City
+72.210.252.137:4145::United States::Louisiana::Monroe
 72.195.34.41:4145::United States::Louisiana::Baton Rouge
-98.162.96.52:4145::United States::Oklahoma::Oklahoma City
-98.170.57.231:4145::United States::Oklahoma::Oklahoma City
-174.75.211.222:4145::United States::Oklahoma::Oklahoma City
-174.77.111.196:4145::United States::Oklahoma::Oklahoma City
-174.77.111.197:4145::United States::Oklahoma::Oklahoma City
-103.159.221.135:5678::Indonesia::Banten::South Tangerang
-72.195.114.169:4145::United States::Louisiana::Monroe
-184.178.172.28:15294::United States::Oklahoma::Choctaw
-192.252.220.92:17328::United States::California::Los Angeles
-24.249.199.4:4145::United States::Florida::Pensacola
-222.92.207.98:40086::China::Jiangsu::Suzhou
-98.175.31.195:4145::United States::Virginia::Norfolk
-72.195.34.58:4145::United States::Louisiana::Baton Rouge
-137.184.136.135:3785::United States::New Jersey::North Bergen
-67.201.33.9:25280::United States::California::Buena Park
-159.65.106.43:9050::Germany::Land Berlin::Berlin
-147.135.112.67:3081::United States::Virginia::Reston
-78.38.108.194:1080::Iran::Sistan and Baluchestan::Zabol
-119.188.168.145:7302::China::Shandong::Jinan
-138.68.252.165:9050::Sweden::Stockholm County::Stockholm
-188.165.225.139:20719::France::Hauts-de-France::Roubaix
-79.143.30.163:55418::Russia::Moscow::Moscow
-157.230.43.255:1080::Singapore::Central Singapore::Singapore
-222.217.240.207:7302::China::Guangxi::Lilancun
-82.99.204.198:1080::Iran::Tehran::Tehran
-5.11.17.230:1080::Iraq::Baghdad::Baghdad
-61.132.47.18:54191::China::Jiangsu::Qinnan
-144.217.7.124:35403::Canada::Quebec::Beauharnois
-51.83.21.224:16379::Sweden::Stockholm County::Stockholm
-61.178.94.23:7302::China::Gansu::Lanzhou
-45.90.57.69:40021::Switzerland::Geneva::Geneva
-69.163.172.236:10345::United States::California::Brea
-58.217.115.142:7302::China::Jiangsu::Nanjing
-218.64.122.99:7302::China::Jiangxi::Nanchang Shi
-67.210.146.50:11080::United States::Texas::Princeton
-61.174.68.160:7302::China::Zhejiang::Quzhou
-185.42.14.120:1080::Russia::Moscow::Mozhaysky District
-223.94.35.3:7302::China::Zhejiang::Hangzhou
+72.195.34.42:4145::United States::Louisiana::Baton Rouge
 117.156.203.11:7302::China::Guangdong::Shenzhen
+54.38.110.231:48325::France::Hauts-de-France::Roubaix
+143.248.55.62:5566::United States::Washington::Seattle
+116.212.132.52:33427::Cambodia::Phnom Penh::Phnom Penh
+27.116.51.119:6667::India::Gujarat::Vadodara
+91.134.139.238:3080::France::Hauts-de-France::Gravelines
+125.141.133.46:5566::Germany::North Rhine-Westphalia::Bonn
+51.254.49.255:24829::France::Hauts-de-France::Gravelines
+101.71.121.196:7302::China::Zhejiang::Ningbo
+5.188.181.170:3080::Spain::Madrid::Madrid
+67.201.33.9:25280::United States::California::Buena Park
+198.12.230.86:1080::United States::Virginia::Ashburn
+31.220.43.141:16181::United States::California::Oakley
+103.159.221.135:5678::Indonesia::Banten::South Tangerang
+220.178.229.83:7302::China::Anhui::Hefei
+51.83.140.70:8181::Sweden::Stockholm County::Stockholm
+67.201.33.10:25283::United States::California::Buena Park
+112.54.33.47:7302::Hong Kong::Tsuen Wan District::Tsuen Wan
+113.107.139.199:7302::China::Guangdong::Jiangmen
+221.218.245.146:7302::China::Beijing::Beijing
+125.141.139.198:5566::United States::Washington::Seattle
+158.69.64.142:9200::Finland::Uusimaa::Helsinki
+221.218.245.146:7300::China::Beijing::Beijing
+223.94.35.3:7302::China::Zhejiang::Hangzhou
+51.222.13.193:10084::Canada::Quebec::Beauharnois
+104.168.12.190:5555::United States::California::San Jose
+93.190.141.62:9050::Germany::Bavaria::Nuremberg
