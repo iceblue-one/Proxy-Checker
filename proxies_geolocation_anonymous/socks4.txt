@@ -1,66 +1,53 @@
-84.247.222.69:4153::Italy::Veneto::Verona
-189.201.189.2:4145::Mexico::Mexico City::Mexico City
-190.205.42.42:1080::Venezuela::Bolívar::Ciudad Bolívar
-176.236.222.15:1080::Turkey::Istanbul::Istanbul
-103.44.14.129:4145::India::Andhra Pradesh::Vijayawada
-103.163.36.142:4145::Indonesia::East Java::Blitar
-138.118.38.1:1080::Argentina::La Pampa::General Pico
-138.186.133.161:4153::Brazil::Paraíba::Itabaiana
-179.125.172.177:4153::Brazil::Sao Paulo::Sumaré
-212.119.190.214:1090::Russia::St.-Petersburg::St Petersburg
-103.144.161.104:8291::Bangladesh::Dhaka Division::Dhaka
-27.46.44.73:3629::China::Guangdong::Shenzhen
-103.114.98.205:1080::Bangladesh::Dhaka Division::Dhania
-202.141.226.124:48644::Pakistan::Punjab::Lahore
-116.199.170.65:4145::India::Karnataka::Bengaluru
-190.61.85.237:4153::Panama::Provincia de Panama::Panama City
-193.91.70.1:4153::Hungary::Pest megye::Dunakeszi
-187.95.80.137:3629::Brazil::Sao Paulo::Pirapora do Bom Jesus
-129.126.99.254:4153::Singapore::Central Singapore::Woodlands
-88.213.214.254:4145::Bulgaria::Blagoevgrad::Bansko
-189.89.142.28:4145::Brazil::Bahia::Salvador
-45.7.177.202:39867::Brazil::Alagoas::Maceió
-131.221.182.14:4153::Brazil::Mato Grosso::Primavera do Leste
-200.0.247.83:4153::Argentina::Buenos Aires::Martinez
-110.76.155.145:14153::Thailand::Bangkok::Watthana
-103.199.159.217:41610::India::Uttarakhand::Khatima
-183.88.240.53:4145::Thailand::Prachin Buri::Kabin Buri
-103.140.83.129:4145::Bangladesh::Dhaka Division::Dhaka
-170.254.92.198:4153::Argentina::Catamarca::Santa Maria
-123.136.29.182:5678::Bangladesh::Dhaka Division::Dhaka
-138.197.208.39:9050::Romania::Bucharest::Bucharest
-77.46.138.1:33608::Serbia::Central Serbia::Zajecar
-185.89.65.165:33744::Poland::Łódź Voivodeship::Tomaszów Mazowiecki
+168.181.121.197:57010::Honduras::Departamento de Colon::Tocoa
+181.129.52.155:44665::Colombia::Antioquia::Medellín
+202.151.163.10:1080::Vietnam::Hanoi::Hanoi
+103.5.63.211:40544::Philippines::Central Luzon::San Jose del Monte
+195.78.100.186:3629::Ukraine::Kharkiv::Kolomak
+103.36.35.251:5678::Indonesia::Jakarta::Jakarta
+178.212.48.71:1080::Poland::Lubusz::Międzyrzecz
+85.208.76.2:4153::Italy::Lazio::Cerveteri
+185.252.41.31:5678::Turkey::Sakarya::Adapazarı
+177.139.130.157:4153::Brazil::Sao Paulo::Guarulhos
+190.216.56.1:4153::Argentina::Cordoba::Córdoba
 213.74.58.52:5678::Turkey::Hatay::Antakya
-80.82.147.3:4153::Czechia::Moravskoslezsky kraj::Český Těšín
-222.124.130.196:4145::Indonesia::West Java::Wates
-103.60.187.1:52195::India::Uttar Pradesh::Noida
-189.2.127.244:4153::Brazil::Sao Paulo::São Paulo
-14.232.160.252:10801::Vietnam::Hanoi::Hanoi
-188.43.5.113:3629::Russia::Moscow::Moscow
-103.25.44.113:4153::India::Tamil Nadu::Arappakkam
-112.2.35.162:1080::Hong Kong::Central and Western District::Hong Kong
-103.164.174.41:4145::Indonesia::South Sumatra::Balailangu
-89.218.170.58:41452::Kazakhstan::Nur-Sultan::Nur-Sultan
-170.233.30.6:4153::Argentina::Santa Cruz::Río Gallegos
-180.210.222.253:1080::Bangladesh::Dhaka Division::Dhaka
-203.77.239.201:4153::Indonesia::Jakarta::Jakarta
-162.144.105.149:44316::United States::Massachusetts::Burlington
-220.174.210.128:4145::China::Hainan::Jiale
-222.83.251.211:4145::China::Guangxi::Lilancun
-185.97.132.45:5678::Palestinian Territory::West Bank::Ramallah
+1.9.167.36:60489::Malaysia::Kuala Lumpur::Kuala Lumpur
+103.87.212.15:4153::Bangladesh::Dhaka Division::Dhaka
+103.144.161.104:8291::Bangladesh::Dhaka Division::Dhaka
+177.223.48.126:52104::Brazil::Pernambuco::Sao Jose do Egito
+41.223.233.201:4153::Burkina Faso::Centre::Ouagadougou
+45.166.26.25:53695::Brazil::Paraíba::Fagundes
+103.70.204.65:59311::India::Uttarakhand::Gadarpur
+138.118.38.1:1080::Argentina::La Pampa::General Pico
+91.150.77.57:56921::Serbia::Belgrade::Belgrade
+119.46.2.253:4145::Thailand::Bangkok::Din Daeng
+103.115.255.65:36331::Bangladesh::Dhaka Division::Savar Upazila
+103.212.92.253:41363::India::Maharashtra::Mumbai
+49.156.152.113:5678::India::Andhra Pradesh::Tanuku
+202.133.0.37:4153::Indonesia::Banten::Tangerang
+123.136.29.180:5678::Bangladesh::Dhaka Division::Dhaka
+46.225.225.195:4145::Iran::Hamadan Province::Hamadan
+206.189.251.0:33335::Germany::Hesse::Frankfurt am Main
+62.56.138.9:10801::United Kingdom::England::London
+202.165.33.97:5678::Indonesia::Jakarta::Jakarta
+81.163.254.104:3629::Russia::Leningrad Oblast::Staraya
+103.12.114.50:4145::Indonesia::Jakarta::Jakarta
+45.117.228.153:4145::Malaysia::Selangor::Petaling Jaya
+143.248.55.62:5566::United States::Washington::Seattle
+103.254.106.130:4153::Indonesia::Jakarta::Jakarta
+159.69.153.169:5566::Germany::North Rhine-Westphalia::Düsseldorf
+200.108.196.108:4145::Uruguay::Departamento de Montevideo::Montevideo
+202.75.97.82:38238::Indonesia::Jakarta::Jakarta
+41.65.3.8:4153::Egypt::Giza::Giza
+162.255.108.254:5678::United States::Washington::Pasco
+82.139.187.105:4153::Poland::Podlasie::Bialystok
 188.95.20.139:5678::Italy::Lazio::Rome
-103.86.1.2:4145::India::Karnataka::Bengaluru
-202.162.214.250:5434::Indonesia::West Java::Pamulang
-177.85.205.105:3629::Brazil::Bahia::Riachao do Jacuipe
+12.158.87.26:39593::United States::Indiana::Indianapolis
+139.5.133.132:4145::Bangladesh::Dhaka Division::Dhaka
+36.67.147.220:4153::Indonesia::Jakarta::Jakarta
+194.44.85.38:1088::Ukraine::Lviv Oblast::Lviv
+88.255.185.234:1082::Turkey::Kayseri::Kayseri
+185.32.47.145:4153::Azerbaijan::Baku City::Baku
+43.225.187.197:5678::Indonesia::Riau::Pancur Biru Lestari II
 193.108.124.177:1080::Poland::Mazovia::Kołbiel
-175.144.198.226:31694::Malaysia::Penang::Bayan Lepas
-117.103.5.134:60113::Indonesia::Yogyakarta::Yogyakarta
-103.30.0.5:4145::Indonesia::West Java::Bandung
-45.249.79.105:3629::India::Andhra Pradesh::Guntur
-103.149.105.253:4153::Bangladesh::Dhaka Division::Dhaka
-45.187.76.2:3629::Argentina::Entre Rios::La Paz
-51.83.140.70:8181::Switzerland::Zurich::Zurich
-114.134.16.52:4145::India::Maharashtra::Navi Mumbai
-202.4.107.69:5678::Bangladesh::Dhaka Division::Dhaka
-103.242.104.44:5678::Indonesia::Bengkulu::Mukomuko
+1.179.186.70:1080::Thailand::Bangkok::Khwaeng Thung Song Hong
+123.116.175.78:10808::Hong Kong::Central and Western District::Hong Kong
